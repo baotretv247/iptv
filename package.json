@@ -1,0 +1,31 @@
+{
+  "name": "iptv",
+  "version": "0.1.29",
+  "description": "Free IPTV playlist containing about 3000 channels from all over the world",
+  "keywords": [
+    "iptv",
+    "playlist",
+    "tv",
+    "channels"
+  ],
+  "main": "index.m3u",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baotretv247/iptv.git"
+  },
+  "author": "Hoang <baotretx365us@gmail.com>",
+  "private": true,
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baotretv247/iptv/issues"
+  },
+  "homepage": "https://github.com/baotretv247/iptv#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "playlist-parser": "0.0.12"
+  }
+}

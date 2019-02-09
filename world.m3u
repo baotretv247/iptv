@@ -1,0 +1,1701 @@
+#EXTM3U
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="http://atv.org.vn/lib/images/atv-tv.png",ATV-TH An Giang
+http://221.133.9.35:1935/live/1.stream_240p/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="http://canthotv.vn/wp-content/uploads/2018/02/logo-headerTHTPCT.png",Can Tho
+http://tv.canthotv.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="http://danangtv.vn/images/drt1.png",DaNang TV1 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="http://danangtv.vn/images/drt2.png",DaNang TV2 
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="http://mobion.vn/Files/Image/admin/2017/12/08/temp_621947320104103.jpg",VTC7-Today TV HD
+https://cdn1.vtcnow.vn/live/eds/VTC7_7/hlsv3/VTC7_7-audio_20000=212400-video=800000.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-08-26/8397951-logo-nhan-dan.png",NHAN DAN
+https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/vtc-1-hd",VTC1 HD
+https://cdn1.vtcnow.vn/live/eds/VTC1_1/hlsv3/VTC1_1-audio_20000=212400-video=1799600.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/vtc-10-net-viet",VTC10-NetViet
+https://cdn1.vtcnow.vn/live/eds/VTC10_10/hlsv3/VTC10_10-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/vtc-11-kids-tv",VTC11- Kids TV
+https://cdn1.vtcnow.vn/live/eds/VTC11_11/hlsv3/VTC11_11-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/vtc-13-hd",VTC13 HD
+https://cdn1.vtcnow.vn/live/eds/VTC13_13/hlsv3/VTC13_13-audio_20000=212400-video=867200.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/vtc-14-hd",VTC14 HD
+https://cdn1.vtcnow.vn/live/eds/VTC14_14/hlsv3/VTC14_14-audio_20000=212400-video=1582000.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/vtc-16-3n",VTC16-3N
+https://cdn1.vtcnow.vn/live/eds/VTC16_16/hlsv3/VTC16_16-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/vtc-2",VTC2
+https://cdn1.vtcnow.vn/live/eds/VTC2_2/hlsv3/VTC2_2-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/vtc-5-sc-tv",VTC5 HD - Giải trí tổng hợp SCTV
+https://cdn1.vtcnow.vn/live/eds/VTC5_5/hlsv3/VTC5_5-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/vtc-6-bac-bo",VTC6
+https://cdn1.vtcnow.vn/live/eds/VTC6_6/hlsv3/VTC6_6-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/vtc-8-nam-bo",VTC8
+https://cdn1.vtcnow.vn/live/eds/VTC8_8/hlsv3/VTC8_8-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/vtc-9-hd",VTC9 HD
+https://cdn1.vtcnow.vn/live/eds/VTC9_9/hlsv3/VTC9_9-audio_20000=212400-video=572800.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png?w=345&h=210&mode=scale",VTC4-Yeah1! Family
+https://cdn1.vtcnow.vn/live/eds/VTC4_4/hlsv3/VTC4_4-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",CinemaWorld 
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",vtc13
+https://cdn1.vtc.gov.vn/live/eds/VTC13_13/hlsv5/VTC13_13-video=1275600.m3u8
+#EXTINF:-1, group-title="VietNamTV",Hai Ngoai
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",onfilm
+https://saigonrtmp.tulix.tv/vchannel4/vchannel4/playlist.m3u8
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",saigontv
+https://saigonrtmp.tulix.tv/vchannel2/vchannel2/playlist.m3u8
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",VSLTV
+https://saigonrtmp.tulix.tv/vchannel3/vchannel3/playlist.m3u8
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",On biz
+https://saigonrtmp.tulix.tv/vchannel5/vchannel5/playlist.m3u8
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",Echannel
+https://saigonrtmp.tulix.tv/vchannel6/vchannel6/playlist.m3u8
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",SCTV HD
+https://saigonrtmp.tulix.tv/vchannel7/vchannel7/playlist.m3u8
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",SCTV Phim
+https://saigonrtmp.tulix.tv/vchannel8/vchannel8/playlist.m3u8
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",SCTV San Khau 
+https://saigonrtmp.tulix.tv/vchannel9/vchannel9/playlist.m3u8
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",Style Tv
+https://saigonrtmp.tulix.tv/vchannel10/vchannel10/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",===== USA =====
+http://siptv-online.com:8789/18291/stevenjuz@564/24149
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| ABC
+http://siptv-online.com:8789/18291/stevenjuz@564/24147
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| CBS HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24144
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| USA Network
+http://siptv-online.com:8789/18291/stevenjuz@564/24143
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA|******NEWS******|USA|
+http://siptv-online.com:8789/18291/stevenjuz@564/24142
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| CNN HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24141
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| Fox News HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24140
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| MSNBC FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/24139
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| ABC NEWS
+http://siptv-online.com:8789/18291/stevenjuz@564/24138
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| CNBC
+http://siptv-online.com:8789/18291/stevenjuz@564/24137
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| FOX BUSINESS FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/24136
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| BLOOMBERG TV
+http://siptv-online.com:8789/18291/stevenjuz@564/24135
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| ABC 7
+http://siptv-online.com:8789/18291/stevenjuz@564/24134
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| beINSPORT N
+http://siptv-online.com:8789/18291/stevenjuz@564/24108
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| ESPN 3
+http://siptv-online.com:8789/18291/stevenjuz@564/24103
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| The Weather Channel
+http://siptv-online.com:8789/18291/stevenjuz@564/24133
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA|******MOVIES******|USA|
+http://siptv-online.com:8789/18291/stevenjuz@564/24132
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| SHOWTIME SHOWCASE
+http://siptv-online.com:8789/18291/stevenjuz@564/24120
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| Starz Cinema HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24118
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| STARZ
+http://siptv-online.com:8789/18291/stevenjuz@564/24119
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| FX TV HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24125
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| MoreMax HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24116
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| Lifetime Movies HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24117
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| 5 Star Max
+http://siptv-online.com:8789/18291/stevenjuz@564/24114
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| ACTIONMAX HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24115
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| AMC HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24122
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| Cinemax East HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24113
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| CINEMAX HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24112
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| EL REY  HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24111
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| TNT HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24123
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| HBO
+http://siptv-online.com:8789/18291/stevenjuz@564/24131
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| HBO COMEDY HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24130
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| HBO FAMILY HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24129
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| STARZ CINEMA
+http://siptv-online.com:8789/18291/stevenjuz@564/24128
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| HBO SIGNATURE HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24127
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| HBO ZONE
+http://siptv-online.com:8789/18291/stevenjuz@564/24126
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| HALLMARK HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24124
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA|******SPORTS******|USA|
+http://siptv-online.com:8789/18291/stevenjuz@564/24110
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| beINSPORT US
+http://siptv-online.com:8789/18291/stevenjuz@564/24109
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| FOX SPORT 1HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24107
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| FOX SPORT 2HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24106
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| ESPN
+http://siptv-online.com:8789/18291/stevenjuz@564/24105
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| ESPN 2HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24104
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| ESPN Deportes
+http://siptv-online.com:8789/18291/stevenjuz@564/24102
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| ESPNEWS
+http://siptv-online.com:8789/18291/stevenjuz@564/24100
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| ESPN U HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24101
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| BTN
+http://siptv-online.com:8789/18291/stevenjuz@564/24099
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| CBS SPORTS NET
+http://siptv-online.com:8789/18291/stevenjuz@564/24098
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBC SPORTS Net HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24097
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBC GOLF
+http://siptv-online.com:8789/18291/stevenjuz@564/24096
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| Tennis Channel HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24095
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| FOX DEPORTES
+http://siptv-online.com:8789/18291/stevenjuz@564/24094
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| WWE HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24093
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| MLB HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24092
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBA
+http://siptv-online.com:8789/18291/stevenjuz@564/24091
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBA 1  MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24090
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBA 2  MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24089
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBA 3  MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24088
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBA 4  MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24087
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBA 5  MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24086
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBA 6  MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24085
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBA 7 MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24084
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBA 8 MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24083
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBA 9 MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24082
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBA 10 MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24081
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NBA 11
+http://siptv-online.com:8789/18291/stevenjuz@564/24080
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NHL HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24079
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NHL 1 MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24078
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NHL 2 MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24077
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NHL 3 MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24076
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NHL 4 MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24075
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NHL 5  MATCH EVENT
+http://siptv-online.com:8789/18291/stevenjuz@564/24074
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NHL 6
+http://siptv-online.com:8789/18291/stevenjuz@564/24073
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NHL 7
+http://siptv-online.com:8789/18291/stevenjuz@564/24072
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NHL 8
+http://siptv-online.com:8789/18291/stevenjuz@564/24071
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NHL 9
+http://siptv-online.com:8789/18291/stevenjuz@564/24070
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NHL 10
+http://siptv-online.com:8789/18291/stevenjuz@564/24069
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NHL 11
+http://siptv-online.com:8789/18291/stevenjuz@564/24068
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL NETWORK HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24067
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 705
+http://siptv-online.com:8789/18291/stevenjuz@564/24066
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 706
+http://siptv-online.com:8789/18291/stevenjuz@564/24065
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 707
+http://siptv-online.com:8789/18291/stevenjuz@564/24064
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 708
+http://siptv-online.com:8789/18291/stevenjuz@564/24063
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 709
+http://siptv-online.com:8789/18291/stevenjuz@564/24062
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 710
+http://siptv-online.com:8789/18291/stevenjuz@564/24061
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 711
+http://siptv-online.com:8789/18291/stevenjuz@564/24060
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 712
+http://siptv-online.com:8789/18291/stevenjuz@564/24059
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 713
+http://siptv-online.com:8789/18291/stevenjuz@564/24058
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 714
+http://siptv-online.com:8789/18291/stevenjuz@564/24057
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 715
+http://siptv-online.com:8789/18291/stevenjuz@564/24056
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 716
+http://siptv-online.com:8789/18291/stevenjuz@564/24055
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NFL 717
+http://siptv-online.com:8789/18291/stevenjuz@564/24054
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA|*****ENTRETAINMENT****|USA|
+http://siptv-online.com:8789/18291/stevenjuz@564/24992
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| BRAVO
+http://siptv-online.com:8789/18291/stevenjuz@564/24052
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| A&E
+http://siptv-online.com:8789/18291/stevenjuz@564/24051
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| COMEDY CENTRAL HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24050
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| HGTV
+http://siptv-online.com:8789/18291/stevenjuz@564/24049
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| E!
+http://siptv-online.com:8789/18291/stevenjuz@564/24048
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| Fox HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24047
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| FXX
+http://siptv-online.com:8789/18291/stevenjuz@564/24046
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| GSN FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/24045
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| SPIKE TV HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24044
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| Syfy HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24043
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| TLC HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24042
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| Viceland
+http://siptv-online.com:8789/18291/stevenjuz@564/24041
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| DIY Network
+http://siptv-online.com:8789/18291/stevenjuz@564/24040
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| FREEFROM
+http://siptv-online.com:8789/18291/stevenjuz@564/24039
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| TBS
+http://siptv-online.com:8789/18291/stevenjuz@564/24038
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| SBTN
+http://siptv-online.com:8789/18291/stevenjuz@564/24037
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA|*****LIFESTYLE*****|USA|
+http://siptv-online.com:8789/18291/stevenjuz@564/24036
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| ANIMAL PLANET HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24035
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NAT GEO WILD HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24034
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NAT GEO
+http://siptv-online.com:8789/18291/stevenjuz@564/24033
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| DISCOVERY  HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24032
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| DISCOVERY SC HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24031
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| DISCOVERY ID HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24030
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| HISTORY HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24029
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| H2
+http://siptv-online.com:8789/18291/stevenjuz@564/24028
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| Travel Channel
+http://siptv-online.com:8789/18291/stevenjuz@564/24027
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| FOOD NETWORK
+http://siptv-online.com:8789/18291/stevenjuz@564/24026
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA|*****KIDS AND FAMILY*****|USA|
+http://siptv-online.com:8789/18291/stevenjuz@564/24025
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| Cartoon Network
+http://siptv-online.com:8789/18291/stevenjuz@564/24024
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| Disney Channel FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/24023
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| Nick
+http://siptv-online.com:8789/18291/stevenjuz@564/24022
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| NICKTOONS
+http://siptv-online.com:8789/18291/stevenjuz@564/24021
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA|*****MUSIC*****|USA|
+http://siptv-online.com:8789/18291/stevenjuz@564/24020
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| MTV
+http://siptv-online.com:8789/18291/stevenjuz@564/24019
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| VH1 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/24018
+#EXTM3U
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC ONE FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27019
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC ONE HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27020
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC ONE SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46348
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC TWO FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27021
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC TWO HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27022
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC TWO SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/30870
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV 1 FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26314
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV 1 HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26313
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV 1 SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26311
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV 1 +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26516
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHANNEL 4 FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26305
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHANNEL 4 HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26304
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHANNEL 4 SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26302
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHANNEL 4 +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26301
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHANNEL 4 +1.
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26541
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHANNEL 5 FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26300
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHANNEL 5 HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26299
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHANNEL 5 SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26298
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHANNEL 5 +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26538
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHANNEL 5 +1.
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/34486
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV 2 FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26280
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV 2 HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/37703
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV 2 SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26279
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV2 +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/45593
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV2 +1.
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/47059
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV3 FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26277
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV3 HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26547
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV3 SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26276
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV3 +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/45594
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV4 FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26274
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV4 HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26546
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV4 SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/47906
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV4 +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/45595
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV BE HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27120
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV BE SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26271
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC FOUR HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26282
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | E4 FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/67434
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | E4 HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26834
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | E4 SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27116
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | E4 +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26257
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MORE 4 FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/67433
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MORE 4 HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26832
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MORE 4
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26256
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MORE 4 +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/58539
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | 4 SEVEN HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27109
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | 4 SEVEN
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26255
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | FILM 4 HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27061
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | 5 SELECT HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26244
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | 5 SELECT SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26512
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | 5 SPIKE HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31234
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | 5 SPIKE HD..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/45489
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | 5 STAR
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26241
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | 5 STAR +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26240
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | 5 USA
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26243
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | 5 USA +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26242
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | W FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27129
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | W HD.
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26830
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | W +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/58536
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DAVE HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27115
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DAVE SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26287
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | YESTERDAY HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/51104
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | YESTERDAY SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/51102
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | YESTERDAY +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/51103
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | LONDON LIVE HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/53282
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | TALKING PICTURES SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/66129
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RED BUTTON 1..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31189
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RED BUTTON 2..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31190
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RED BUTTON 3..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31191
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RED BUTTON 4..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31192
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RED BUTTON 5..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31193
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RED BUTTON 6..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31194
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RED BUTTON 7..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31195
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RED BUTTON 8..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31196
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RED BUTTON 9..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31197
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RED BUTTON 10..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31198
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY ONE FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27110
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY ONE HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26296
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY ONE SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26295
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY TWO HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31250
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY TWO SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26261
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY ATLANTIC FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26291
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY ATLANTIC HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26292
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY ATLANTIC SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26290
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY WITNESS FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/54777
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY WITNESS HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/54810
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY WITNESS SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/54811
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SYFY HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27130
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SYFY SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26831
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SYFY +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/58540
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | UK GOLD FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/62921
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | UK GOLD HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26555
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | UK GOLD SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31258
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | UK GOLD +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/48267
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | TLC HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26264
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | TLC SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26544
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | TLC +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/58538
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | AMC HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26649
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | AMC SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26976
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | COMEDY CENTRAL HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26286
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | COMEDY CENTRAL SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26553
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | COMEDY CENTRAL +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/58537
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | COMEDY EXTRA SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/59680
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | COMEDY EXTRA +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26262
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CBS ACTION SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26250
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CBS DRAMA SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26251
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CBS REALITY SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26252
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHALLENGE HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26253
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHALLENGE SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/44130
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHALLENGE +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/44131
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DRAMA HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26259
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DRAMA SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26528
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | E! HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26238
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | E! SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26237
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | LIFETIME HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26247
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | LIFETIME SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26246
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | LIFETIME +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/61995
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ALIBI HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27111
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ALIBI SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26260
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ALIBI +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/48396
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | REALLY
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26248
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | REALLY..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/35450
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | UNIVERSAL CHANNEL HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27128
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | UNIVERSAL CHANNEL SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26552
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | UNIVERSAL CHANNEL +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/58535
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | REAL LIVES
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26239
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | PICK
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26249
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | PICK +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/58541
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | QUEST HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31261
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | QUEST
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26254
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | QUEST +1 HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/32356
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | QUEST RED HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/32357
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | QUEST RED +1 HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/32358
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BLAZE
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26543
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | FOX HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26266
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | FOX SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26265
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY ARTS HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27125
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY ARTS
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26269
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | TRUE ENTERTAINMENT SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/48377
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HORSE AND COUNTRY SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/48397
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | YOURTV HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/49663
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | GOOD FOOD HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31253
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | GOOD FOOD SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26523
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | GOOD FOOD +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/48270
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | FOOD NETWORK SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31260
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | FOOD NETWORK +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/47502
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | VICE SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/54853
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | FORCES TV SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/60577
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HIGH STREET TV 1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/61492
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HIGH STREET TV 2
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/61491
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HIGH STREET TV 3
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/61490
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HIGH STREET TV 4
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/61489
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | JML DIRECT
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/61488
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ABN TV SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/69213
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISCOVERY CHANNEL FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27074
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISCOVERY CHANNEL HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26531
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISCOVERY CHANNEL SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/29790
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISCOVERY HISTORY HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26455
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISCOVERY HISTORY SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26534
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISCOVERY HISTORY +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26218
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISCOVERY SCIENCE HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26221
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISCOVERY SCIENCE SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26533
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISCOVERY SCIENCE +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26220
+#EXTINF:-1,UK | DISCOVERY SHED HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/66877
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISCOVERY SHED SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26245
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISCOVERY TURBO HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26222
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISCOVERY TURBO SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31235
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ANIMAL PLANET FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27113
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ANIMAL PLANET HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31236
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ANIMAL PLANET SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26224
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ANIMAL PLANET +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26223
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HISTORY FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27119
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HISTORY HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26211
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HISTORY SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/57450
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | H2 HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27118
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NATIONAL GEOGRAPHIC FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27123
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NATIONAL GEOGRAPHIC HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26215
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NATIONAL GEOGRAPHIC
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26214
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NAT GEO WILD HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27122
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NAT GEO WILD SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26213
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HOME & HEALTH HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31215
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HOME & HEALTH SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26454
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HOME & HEALTH +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/48384
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CRIME INVESTIGATION HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27449
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CRIME INVESTIGATION
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26206
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SONY CRIME
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31223
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | I.D HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26217
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | I.D
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26216
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | I.D.
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/30996
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | I.D. +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/48268
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DMAX
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26236
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | EDEN HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26208
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | EDEN SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26525
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HOME SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/48385
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | TRAVEL CHANNEL
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26235
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA PREMIER FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27755
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA PREMIER HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27044
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA PREMIER SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26205
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA PREMIER +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26202
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA PREMIER +1.
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26201
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA MEGA HITS FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27757
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA MEGA HITS HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26167
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA MEGA HITS SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26168
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA GREATS FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27758
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA GREATS HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27055
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA GREATS SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26196
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA DISNEY FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27754
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA DISNEY HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27053
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA DISNEY SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26189
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA FAMILY FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27759
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA FAMILY HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26187
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA FAMILY SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26185
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA ACTION FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27760
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA ACTION HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26183
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA ACTION SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26184
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA COMEDY FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27761
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA COMEDY HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26179
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA COMEDY SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26180
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA THRILLER FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27762
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA THRILLER HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27059
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA THRILLER SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26176
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA DRAMA FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27756
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA DRAMA HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27054
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA DRAMA SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26172
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA SCI-FI & HORROR HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26199
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA SCI-FI & HORROR SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26197
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA MUSICALS FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27764
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA MUSICALS HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26163
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA MUSICALS SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26161
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA STORE 1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/63279
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA STORE 2
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/63278
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA STORE 3
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/63277
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA STORE 4
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/63276
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA STORE 5
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/63275
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY  CINEMA STORE 6
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/63274
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SKY CINEMA STORE 7
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/63273
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | FILM 4 SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26159
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | FILM 4 +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/48269
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SONY MOVIES
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26155
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | SONY CRIME +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/66798
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | TCM HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27060
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | TCM SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26158
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | TRUE CHRISTMAS HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26156
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | TRUE CHRISTMAS SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31200
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HORROR CHANNEL
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26157
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MOVIES 24
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26154
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MOVIES 24..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31199
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MOVIES 4 MEN
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26153
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BOOMERANG HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26150
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BOOMERANG SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26407
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CARTOON NETWORK FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27132
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CARTOON NETWORK HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31255
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CARTOON NETWORK SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/30673
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CARTOONITO
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26149
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CBBC HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26146
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CBEEBIES FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/55675
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CBEEBIES HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26144
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CBEEBIES SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26412
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CITV HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27162
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CITV SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/48262
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISNEY CHANNEL HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/66775
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISNEY CHANNEL
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26143
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISNEY CHANNEL +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26833
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISNEY JUNIOR HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26142
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | DISNEY XD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26141
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NICK JR HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26140
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NICK JR SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26404
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NICK JR +1 HD 
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26148
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NICK JR TOO
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26139
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NICKELODEON HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/30734
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NICKELODEON SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26406
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NICKTOONS
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26147
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | POP
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26123
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | POP HD.
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/29792
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | POP MAX SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/29793
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BABY TV HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26145
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BABY TV.
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26402
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MTV HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27075
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MTV SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/31256
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MTV +1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/58534
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MTV BASE
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26136
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MTV CLASSICS
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26131
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MTV DANCE
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26133
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MTV HITS
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26135
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MTV MUSIC
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26137
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MTV ROCKS
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26132
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HEARTS SUMMER
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26116
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | NOW 90s MUSIC CHANNEL
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27703
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | VH1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26130
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | THE VAULT
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26125
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | VIVA
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26134
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BOX HITS
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26128
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | KISS
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26127
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | MAGIC
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26126
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | 4MUSIC
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26129
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHART SHOW HITS
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26122
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHART SHOW TV
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26121
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | STARZ TV
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26124
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CLUBLAND
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26118
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CAPITAL RADIO TV
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26115
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ABSOLUTE 60...S
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26680
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RADIO 1
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26665
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RADIO 2
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26666
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RADIO 3
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26667
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RADIO 4
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26668
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RADIO 5 LIVE
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26669
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC RADIO 5 LIVE EXTRA
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26670
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CAPITAL FM
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26671
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CAPITAL RADIO
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26652
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | CHILL FM
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26672
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | GOLD FM
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26673
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HEART 80...S FM
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26674
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HEART SUSSEX FM
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26675
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | HITS FM
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26679
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | KISS100 FM
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26676
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | METRO RADIO FM
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26678
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ORGINAL 106 GOLD FM
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26677
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | VIRGIN RADIO
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26653
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | TALKSPORT
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46349
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | TALKSPORT 2
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46350
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",EUR | BARCELONA TV
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/50367
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",EUR | BAYERN MUNICH TV
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/52418
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",EUR | REAL MADRID TV
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27539
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",EUR | SEVILLA FC TV
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27538
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC ALBA SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/67528
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC ONE SCOTLAND HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26822
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC ONE SOUTH EAST HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26836
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC ONE WALES HD..
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/26823
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC TWO WALES HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/37241
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | S4C
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27646
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | ITV CENTRAL
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/27648
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | STV FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/28041
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC ONE NORTH WEST
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/30252
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UK | BBC ONE NORTH EAST HD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/62173
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: BBC News FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46844
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: BBC One Scotland FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46862
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: BBC One W Mid
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46860
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: BBC One Wales FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46861
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: BBC Parliament
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46842
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: BBC Two SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46858
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 Anglia EÂ FHDÂ 
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46853
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 Border EnglandÂ FHDÂ 
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46852
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 Central West FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46857
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 FHD (NO REGION)
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46856
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 Granada FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46851
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 London FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46855
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 Meridian South FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46854
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 SD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46850
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 South West FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46849
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 Tyne Tees FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46848
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 Wales FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46847
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 West FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46846
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",UKL1: ITV 1 Yorks W FHD
+http://eqiptv.loginto.me:25461/neet123@gmail.com/25I020T3rw/46845
+----------
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK|*****SKY SPORT*****|UK|
+http://siptv-online.com:8789/18291/stevenjuz@564/23459
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY SPORT NEWS HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23458
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY SPORT PREMIERE LEAGUE
+http://siptv-online.com:8789/18291/stevenjuz@564/23457
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY SPORT CRICKET
+http://siptv-online.com:8789/18291/stevenjuz@564/23456
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY SPORT ACTION
+http://siptv-online.com:8789/18291/stevenjuz@564/23455
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY SPORT GOLF HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23454
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY SPORT FOOTBALL HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23453
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| BT SPORT HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23452
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| BT SPORT2HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23451
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| BT SPORT3FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/23450
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| BTSPORT ESPN HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23449
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| CHELSEA
+http://siptv-online.com:8789/18291/stevenjuz@564/23446
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY SPORTF1
+http://siptv-online.com:8789/18291/stevenjuz@564/23445
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| EUROSPORT UK
+http://siptv-online.com:8789/18291/stevenjuz@564/23444
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| EUROSPORT2
+http://siptv-online.com:8789/18291/stevenjuz@564/23443
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Setanta Sport 1
+http://siptv-online.com:8789/18291/stevenjuz@564/23447
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SetantaSports Ireland
+http://siptv-online.com:8789/18291/stevenjuz@564/23448
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| PREMIER SPORTS
+http://siptv-online.com:8789/18291/stevenjuz@564/23442
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| MOTORS
+http://siptv-online.com:8789/18291/stevenjuz@564/28358
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| BIKE
+http://siptv-online.com:8789/18291/stevenjuz@564/23441
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| AT THE RACES
+http://siptv-online.com:8789/18291/stevenjuz@564/23440
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| FIGHTBOX
+http://siptv-online.com:8789/18291/stevenjuz@564/23439
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK|*****SKY MOVIES*****|UK|
+http://siptv-online.com:8789/18291/stevenjuz@564/23438
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| 5STAR
+http://siptv-online.com:8789/18291/stevenjuz@564/23437
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY_PREMIERE
+http://siptv-online.com:8789/18291/stevenjuz@564/23436
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY_Family HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23435
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY_Action
+http://siptv-online.com:8789/18291/stevenjuz@564/23434
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY_Drama
+http://siptv-online.com:8789/18291/stevenjuz@564/23433
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY THRILLER
+http://siptv-online.com:8789/18291/stevenjuz@564/23432
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY_SciFi&Hor
+http://siptv-online.com:8789/18291/stevenjuz@564/23431
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY_Select
+http://siptv-online.com:8789/18291/stevenjuz@564/23430
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY_Comedy
+http://siptv-online.com:8789/18291/stevenjuz@564/23429
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY_showcast
+http://siptv-online.com:8789/18291/stevenjuz@564/23428
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Film4
+http://siptv-online.com:8789/18291/stevenjuz@564/23427
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| TCM
+http://siptv-online.com:8789/18291/stevenjuz@564/28354
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Sony Movie Ch
+http://siptv-online.com:8789/18291/stevenjuz@564/23426
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| TRUE MOVIES
+http://siptv-online.com:8789/18291/stevenjuz@564/23425
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| RealLives
+http://siptv-online.com:8789/18291/stevenjuz@564/23423
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Movies4Men
+http://siptv-online.com:8789/18291/stevenjuz@564/23424
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK|*****SKY KIDS*****|UK|
+http://siptv-online.com:8789/18291/stevenjuz@564/23421
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK|  DISNEY CHANNEL
+http://siptv-online.com:8789/18291/stevenjuz@564/23420
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| DISNEY JUNIOR
+http://siptv-online.com:8789/18291/stevenjuz@564/23419
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| DISNEY XD
+http://siptv-online.com:8789/18291/stevenjuz@564/23418
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Nickelodeon
+http://siptv-online.com:8789/18291/stevenjuz@564/23417
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK|  NICKELODEON JR
+http://siptv-online.com:8789/18291/stevenjuz@564/23416
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Nick_Jr.2
+http://siptv-online.com:8789/18291/stevenjuz@564/23415
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Nick_Jr.1
+http://siptv-online.com:8789/18291/stevenjuz@564/23414
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| NICKTOONS
+http://siptv-online.com:8789/18291/stevenjuz@564/23413
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Nicktoon Ireland
+http://siptv-online.com:8789/18291/stevenjuz@564/23412
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| BOOMERANG
+http://siptv-online.com:8789/18291/stevenjuz@564/23411
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| CARTOON NET
+http://siptv-online.com:8789/18291/stevenjuz@564/23410
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| CARTOONITO
+http://siptv-online.com:8789/18291/stevenjuz@564/23409
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| BIABY
+http://siptv-online.com:8789/18291/stevenjuz@564/23408
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| TINY POP
+http://siptv-online.com:8789/18291/stevenjuz@564/23407
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK|*****SKY ENTERTAINMENT*****|UK|
+http://siptv-online.com:8789/18291/stevenjuz@564/23406
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY ONE
+http://siptv-online.com:8789/18291/stevenjuz@564/23405
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY TWO
+http://siptv-online.com:8789/18291/stevenjuz@564/23404
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| BBC 1 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23403
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| BBC THREE
+http://siptv-online.com:8789/18291/stevenjuz@564/28350
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| BBC FOUR
+http://siptv-online.com:8789/18291/stevenjuz@564/28351
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| CHANNEL 4
+http://siptv-online.com:8789/18291/stevenjuz@564/28355
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| CHANNEL 5
+http://siptv-online.com:8789/18291/stevenjuz@564/28356
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| RTE ONE
+http://siptv-online.com:8789/18291/stevenjuz@564/28352
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| RTE TWO
+http://siptv-online.com:8789/18291/stevenjuz@564/28353
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| ITV1 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23402
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| ITV2 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23401
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| ITV3 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23400
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| ITV4
+http://siptv-online.com:8789/18291/stevenjuz@564/23399
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK|  LONDON LIVE
+http://siptv-online.com:8789/18291/stevenjuz@564/28360
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| GOLD
+http://siptv-online.com:8789/18291/stevenjuz@564/28359
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| WATCH
+http://siptv-online.com:8789/18291/stevenjuz@564/28357
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| E4
+http://siptv-online.com:8789/18291/stevenjuz@564/28415
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| 3e
+http://siptv-online.com:8789/18291/stevenjuz@564/23398
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| ALIBI
+http://siptv-online.com:8789/18291/stevenjuz@564/23397
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| CBS ACTION
+http://siptv-online.com:8789/18291/stevenjuz@564/23396
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| CBS DRAMA
+http://siptv-online.com:8789/18291/stevenjuz@564/23395
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| CBS REALITY
+http://siptv-online.com:8789/18291/stevenjuz@564/23394
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| DAVE
+http://siptv-online.com:8789/18291/stevenjuz@564/23393
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| E!
+http://siptv-online.com:8789/18291/stevenjuz@564/23391
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| LIFETIME
+http://siptv-online.com:8789/18291/stevenjuz@564/23390
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| TLC
+http://siptv-online.com:8789/18291/stevenjuz@564/23389
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY ATLANTIC
+http://siptv-online.com:8789/18291/stevenjuz@564/23388
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| SKY LIVING
+http://siptv-online.com:8789/18291/stevenjuz@564/23387
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| FOX
+http://siptv-online.com:8789/18291/stevenjuz@564/23386
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| ComedyCentral
+http://siptv-online.com:8789/18291/stevenjuz@564/23385
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK|*****SKY CULTURE*****|UK|
+http://siptv-online.com:8789/18291/stevenjuz@564/23384
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Nat Geo
+http://siptv-online.com:8789/18291/stevenjuz@564/23383
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Nat GeoWild
+http://siptv-online.com:8789/18291/stevenjuz@564/23382
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| ANIMAL PLANET
+http://siptv-online.com:8789/18291/stevenjuz@564/23381
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Discovery
+http://siptv-online.com:8789/18291/stevenjuz@564/23380
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| DMAX
+http://siptv-online.com:8789/18291/stevenjuz@564/23379
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| ID
+http://siptv-online.com:8789/18291/stevenjuz@564/23378
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| ID Xtra
+http://siptv-online.com:8789/18291/stevenjuz@564/23377
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Discovery History
+http://siptv-online.com:8789/18291/stevenjuz@564/23376
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| DISCOVERY SHED
+http://siptv-online.com:8789/18291/stevenjuz@564/23375
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| DISCOVERY TURBO
+http://siptv-online.com:8789/18291/stevenjuz@564/23374
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| NatGeoWild
+http://siptv-online.com:8789/18291/stevenjuz@564/23373
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| Travel Channel
+http://siptv-online.com:8789/18291/stevenjuz@564/23372
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| History 1
+http://siptv-online.com:8789/18291/stevenjuz@564/23371
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| History 2
+http://siptv-online.com:8789/18291/stevenjuz@564/23370
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK|*****SKY NEWS*****|UK|
+http://siptv-online.com:8789/18291/stevenjuz@564/23369
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| BBC World News
+http://siptv-online.com:8789/18291/stevenjuz@564/23368
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| FOXNews
+http://siptv-online.com:8789/18291/stevenjuz@564/23367
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|UK| ALJAZEERA ENG
+http://siptv-online.com:8789/18291/stevenjuz@564/23366
+#EXTM3U
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",=====CANADA=====
+http://siptv-online.com:8789/18291/stevenjuz@564/25038
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",====CANADA FRANCAIS===
+http://siptv-online.com:8789/18291/stevenjuz@564/24988
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TVA MONTREAL
+http://siptv-online.com:8789/18291/stevenjuz@564/25036
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TVA GATINEAU
+http://siptv-online.com:8789/18291/stevenjuz@564/25035
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TVA QUEBEC
+http://siptv-online.com:8789/18291/stevenjuz@564/25034
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| VTELE
+http://siptv-online.com:8789/18291/stevenjuz@564/25033
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TELE QUEBEC
+http://siptv-online.com:8789/18291/stevenjuz@564/25032
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| VRAK TV
+http://siptv-online.com:8789/18291/stevenjuz@564/25030
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ICI MONTREAL
+http://siptv-online.com:8789/18291/stevenjuz@564/25027
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ICI TELEVISION
+http://siptv-online.com:8789/18291/stevenjuz@564/25026
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ICI VANCOUVER
+http://siptv-online.com:8789/18291/stevenjuz@564/25028
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CANAL VIE
+http://siptv-online.com:8789/18291/stevenjuz@564/25031
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TV5 QUEBEC
+http://siptv-online.com:8789/18291/stevenjuz@564/25029
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CPAC FRENCH
+http://siptv-online.com:8789/18291/stevenjuz@564/25025
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| LCN
+http://siptv-online.com:8789/18291/stevenjuz@564/25022
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CANALSAVOIR
+http://siptv-online.com:8789/18291/stevenjuz@564/25024
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA|TV Francophonie
+http://siptv-online.com:8789/18291/stevenjuz@564/25023
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA|Assemblée Nationale Québec
+http://siptv-online.com:8789/18291/stevenjuz@564/24993
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| RDI
+http://siptv-online.com:8789/18291/stevenjuz@564/25021
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| RDS
+http://siptv-online.com:8789/18291/stevenjuz@564/25019
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| RDS 2
+http://siptv-online.com:8789/18291/stevenjuz@564/25018
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| RDS INFO
+http://siptv-online.com:8789/18291/stevenjuz@564/25020
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TVA SPORTS
+http://siptv-online.com:8789/18291/stevenjuz@564/25017
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SUPER ECRAN 1
+http://siptv-online.com:8789/18291/stevenjuz@564/25016
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SUPER ECRAN 2
+http://siptv-online.com:8789/18291/stevenjuz@564/25015
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SUPER ECRAN 3
+http://siptv-online.com:8789/18291/stevenjuz@564/25014
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SUPER ECRAN 4
+http://siptv-online.com:8789/18291/stevenjuz@564/25013
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CINEPOP
+http://siptv-online.com:8789/18291/stevenjuz@564/25012
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SERIES
+http://siptv-online.com:8789/18291/stevenjuz@564/25011
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| YOOPA
+http://siptv-online.com:8789/18291/stevenjuz@564/25010
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| DISNEY FRENCH
+http://siptv-online.com:8789/18291/stevenjuz@564/25007
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TELETOON
+http://siptv-online.com:8789/18291/stevenjuz@564/25009
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TFO
+http://siptv-online.com:8789/18291/stevenjuz@564/25008
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ARTV
+http://siptv-online.com:8789/18291/stevenjuz@564/25006
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ADDIK TV
+http://siptv-online.com:8789/18291/stevenjuz@564/25000
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CANAL D
+http://siptv-online.com:8789/18291/stevenjuz@564/25001
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CASA
+http://siptv-online.com:8789/18291/stevenjuz@564/25005
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| EVASION
+http://siptv-online.com:8789/18291/stevenjuz@564/25004
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| HISTORIA
+http://siptv-online.com:8789/18291/stevenjuz@564/25003
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| MOI & CIE
+http://siptv-online.com:8789/18291/stevenjuz@564/25002
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| PRISE 2
+http://siptv-online.com:8789/18291/stevenjuz@564/24998
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| UNIS TV
+http://siptv-online.com:8789/18291/stevenjuz@564/24999
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ZESTE
+http://siptv-online.com:8789/18291/stevenjuz@564/24996
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ZTELE
+http://siptv-online.com:8789/18291/stevenjuz@564/24997
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| METEO
+http://siptv-online.com:8789/18291/stevenjuz@564/24995
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| MUSIQUE PLUS
+http://siptv-online.com:8789/18291/stevenjuz@564/24994
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| WSBK
+http://siptv-online.com:8789/18291/stevenjuz@564/24254
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",====CANADA-Anglais====
+http://siptv-online.com:8789/18291/stevenjuz@564/24298
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TVA H265
+http://siptv-online.com:8789/18291/stevenjuz@564/33822
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| BBC WORLD NEWS
+http://siptv-online.com:8789/18291/stevenjuz@564/24297
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| BNN
+http://siptv-online.com:8789/18291/stevenjuz@564/24296
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CBC NEWS
+http://siptv-online.com:8789/18291/stevenjuz@564/24295
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CNBC
+http://siptv-online.com:8789/18291/stevenjuz@564/24294
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CNN
+http://siptv-online.com:8789/18291/stevenjuz@564/24293
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CP24 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24292
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CPAC
+http://siptv-online.com:8789/18291/stevenjuz@564/24291
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CTV NEWS NETWORK
+http://siptv-online.com:8789/18291/stevenjuz@564/24290
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| FOX NEWS
+http://siptv-online.com:8789/18291/stevenjuz@564/24289
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| GLOBAL NEWS
+http://siptv-online.com:8789/18291/stevenjuz@564/24288
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| MSNBC
+http://siptv-online.com:8789/18291/stevenjuz@564/24287
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| NBC EAST
+http://siptv-online.com:8789/18291/stevenjuz@564/24286
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| NBC WEST
+http://siptv-online.com:8789/18291/stevenjuz@564/24285
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| OLN
+http://siptv-online.com:8789/18291/stevenjuz@564/24284
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| Q13 FOX NEWS
+http://siptv-online.com:8789/18291/stevenjuz@564/24283
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| THE WEATHER NETWORK
+http://siptv-online.com:8789/18291/stevenjuz@564/24282
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ABC SPARK CANADA
+http://siptv-online.com:8789/18291/stevenjuz@564/24281
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ABC
+http://siptv-online.com:8789/18291/stevenjuz@564/24280
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CBC MONTREAL
+http://siptv-online.com:8789/18291/stevenjuz@564/24279
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CBC OTTAWA
+http://siptv-online.com:8789/18291/stevenjuz@564/24278
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CBC TORONTO
+http://siptv-online.com:8789/18291/stevenjuz@564/24277
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CBC VANCOUVER
+http://siptv-online.com:8789/18291/stevenjuz@564/24276
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CBS EAST
+http://siptv-online.com:8789/18291/stevenjuz@564/24275
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CBS ATLANTIC
+http://siptv-online.com:8789/18291/stevenjuz@564/24274
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CITY TORONTO
+http://siptv-online.com:8789/18291/stevenjuz@564/24273
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CITY VANCOUVER
+http://siptv-online.com:8789/18291/stevenjuz@564/24272
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CMT CANADA
+http://siptv-online.com:8789/18291/stevenjuz@564/24271
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CTV 2 VANCOUVER
+http://siptv-online.com:8789/18291/stevenjuz@564/24270
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CTV
+http://siptv-online.com:8789/18291/stevenjuz@564/24269
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CTV TORONTO
+http://siptv-online.com:8789/18291/stevenjuz@564/24268
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CTV VANCOUVER
+http://siptv-online.com:8789/18291/stevenjuz@564/24267
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CTV2 OTTAWA
+http://siptv-online.com:8789/18291/stevenjuz@564/24266
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| GLOBAL
+http://siptv-online.com:8789/18291/stevenjuz@564/24265
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ONE
+http://siptv-online.com:8789/18291/stevenjuz@564/24264
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| OWN
+http://siptv-online.com:8789/18291/stevenjuz@564/24263
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| PBS EAST
+http://siptv-online.com:8789/18291/stevenjuz@564/24262
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| PEACH TREE
+http://siptv-online.com:8789/18291/stevenjuz@564/24261
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SHOPPING
+http://siptv-online.com:8789/18291/stevenjuz@564/24260
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TELE LATINO
+http://siptv-online.com:8789/18291/stevenjuz@564/24259
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TVO
+http://siptv-online.com:8789/18291/stevenjuz@564/24258
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| W NETWORK
+http://siptv-online.com:8789/18291/stevenjuz@564/24257
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| WFN
+http://siptv-online.com:8789/18291/stevenjuz@564/24256
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| WGN
+http://siptv-online.com:8789/18291/stevenjuz@564/24255
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| YES TV
+http://siptv-online.com:8789/18291/stevenjuz@564/24253
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| YTV
+http://siptv-online.com:8789/18291/stevenjuz@564/24252
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| YTV West
+http://siptv-online.com:8789/18291/stevenjuz@564/24251
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA|BEINSPORTS CA FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/24250
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TSN1
+http://siptv-online.com:8789/18291/stevenjuz@564/24249
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TSN2
+http://siptv-online.com:8789/18291/stevenjuz@564/24248
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TSN3
+http://siptv-online.com:8789/18291/stevenjuz@564/24247
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TSN4
+http://siptv-online.com:8789/18291/stevenjuz@564/24246
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TSN5
+http://siptv-online.com:8789/18291/stevenjuz@564/24245
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| LEAFS TV
+http://siptv-online.com:8789/18291/stevenjuz@564/24244
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| NBA TV
+http://siptv-online.com:8789/18291/stevenjuz@564/24243
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SPORTNET 360
+http://siptv-online.com:8789/18291/stevenjuz@564/24242
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SPORTNET ONE
+http://siptv-online.com:8789/18291/stevenjuz@564/24241
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SPORTNET ONTARIO
+http://siptv-online.com:8789/18291/stevenjuz@564/24240
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SPORTSNET WEST
+http://siptv-online.com:8789/18291/stevenjuz@564/24239
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SPORTSNET PACIFIC
+http://siptv-online.com:8789/18291/stevenjuz@564/24238
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SPORTSNET WORLD
+http://siptv-online.com:8789/18291/stevenjuz@564/24237
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| FIGHT NETWORK
+http://siptv-online.com:8789/18291/stevenjuz@564/24236
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| GOLF
+http://siptv-online.com:8789/18291/stevenjuz@564/24235
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| WWE
+http://siptv-online.com:8789/18291/stevenjuz@564/24234
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| GINX ESPORTS TV CANADA
+http://siptv-online.com:8789/18291/stevenjuz@564/24233
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ACTION
+http://siptv-online.com:8789/18291/stevenjuz@564/24232
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| AMC
+http://siptv-online.com:8789/18291/stevenjuz@564/24231
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ENCORE 1 EAST
+http://siptv-online.com:8789/18291/stevenjuz@564/24230
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ENCORE 2 EAST
+http://siptv-online.com:8789/18291/stevenjuz@564/24229
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| LIFETIME
+http://siptv-online.com:8789/18291/stevenjuz@564/24228
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| MTIME
+http://siptv-online.com:8789/18291/stevenjuz@564/24227
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SUPER CHANNEL 1
+http://siptv-online.com:8789/18291/stevenjuz@564/24226
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SUPER CHANNEL 2
+http://siptv-online.com:8789/18291/stevenjuz@564/24225
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SUPER CHANNEL VAULT
+http://siptv-online.com:8789/18291/stevenjuz@564/24224
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TMN 1
+http://siptv-online.com:8789/18291/stevenjuz@564/24223
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TMN 2
+http://siptv-online.com:8789/18291/stevenjuz@564/24222
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TMN 3
+http://siptv-online.com:8789/18291/stevenjuz@564/24221
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TMN 4
+http://siptv-online.com:8789/18291/stevenjuz@564/24220
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| HBO 1
+http://siptv-online.com:8789/18291/stevenjuz@564/24219
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| HBO 2
+http://siptv-online.com:8789/18291/stevenjuz@564/24218
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SHOWCASE EAST
+http://siptv-online.com:8789/18291/stevenjuz@564/24217
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SILVER SCREEN CLASSICS
+http://siptv-online.com:8789/18291/stevenjuz@564/24216
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SPIKE TV / PARAMOUNT CANADA
+http://siptv-online.com:8789/18291/stevenjuz@564/24215
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TCM
+http://siptv-online.com:8789/18291/stevenjuz@564/24214
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| AHC
+http://siptv-online.com:8789/18291/stevenjuz@564/24213
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| APTN
+http://siptv-online.com:8789/18291/stevenjuz@564/24212
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| BBC CANADA
+http://siptv-online.com:8789/18291/stevenjuz@564/24211
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| BRAVO
+http://siptv-online.com:8789/18291/stevenjuz@564/24210
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| BOOK TV
+http://siptv-online.com:8789/18291/stevenjuz@564/24209
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| COMEDY GOLD
+http://siptv-online.com:8789/18291/stevenjuz@564/24208
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| COSMO
+http://siptv-online.com:8789/18291/stevenjuz@564/24207
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| COTTAGE LIFE
+http://siptv-online.com:8789/18291/stevenjuz@564/24206
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|USA| DAYSTAR TV
+http://siptv-online.com:8789/18291/stevenjuz@564/24017
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| DEJAVIEW
+http://siptv-online.com:8789/18291/stevenjuz@564/24205
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| DIY NETWORK
+http://siptv-online.com:8789/18291/stevenjuz@564/24204
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| DTOUR
+http://siptv-online.com:8789/18291/stevenjuz@564/24203
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| E! CANADA
+http://siptv-online.com:8789/18291/stevenjuz@564/24202
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| FTV CANADA
+http://siptv-online.com:8789/18291/stevenjuz@564/24201
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| FYI
+http://siptv-online.com:8789/18291/stevenjuz@564/24200
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| GSN
+http://siptv-online.com:8789/18291/stevenjuz@564/24199
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| GUSTO
+http://siptv-online.com:8789/18291/stevenjuz@564/24198
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| HGTV
+http://siptv-online.com:8789/18291/stevenjuz@564/24197
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| IFC
+http://siptv-online.com:8789/18291/stevenjuz@564/24196
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| KTLA
+http://siptv-online.com:8789/18291/stevenjuz@564/24195
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| MAVTV
+http://siptv-online.com:8789/18291/stevenjuz@564/24194
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| MAX
+http://siptv-online.com:8789/18291/stevenjuz@564/24193
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| MTV2
+http://siptv-online.com:8789/18291/stevenjuz@564/24192
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| NTV
+http://siptv-online.com:8789/18291/stevenjuz@564/24191
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| OMNI 1
+http://siptv-online.com:8789/18291/stevenjuz@564/24190
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| OMNI 2
+http://siptv-online.com:8789/18291/stevenjuz@564/24189
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| OUTTV
+http://siptv-online.com:8789/18291/stevenjuz@564/24188
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SLICE
+http://siptv-online.com:8789/18291/stevenjuz@564/24187
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SMITHSONIAN
+http://siptv-online.com:8789/18291/stevenjuz@564/24186
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| SPACE
+http://siptv-online.com:8789/18291/stevenjuz@564/24185
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TREEHOUSE
+http://siptv-online.com:8789/18291/stevenjuz@564/24184
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| VICELAND
+http://siptv-online.com:8789/18291/stevenjuz@564/24183
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| VISION
+http://siptv-online.com:8789/18291/stevenjuz@564/24182
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| A & E
+http://siptv-online.com:8789/18291/stevenjuz@564/24181
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ANIMAL PLANET
+http://siptv-online.com:8789/18291/stevenjuz@564/24180
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CRIME  INVEST
+http://siptv-online.com:8789/18291/stevenjuz@564/24179
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| DISCOVERY  VELOCITY
+http://siptv-online.com:8789/18291/stevenjuz@564/24178
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ID CANADA
+http://siptv-online.com:8789/18291/stevenjuz@564/24177
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| DISCOVERY SCIENCE CANADA
+http://siptv-online.com:8789/18291/stevenjuz@564/24176
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| FOOD NETWORK
+http://siptv-online.com:8789/18291/stevenjuz@564/24175
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| CARTOON NETWORK
+http://siptv-online.com:8789/18291/stevenjuz@564/24174
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| H2 CANADA
+http://siptv-online.com:8789/18291/stevenjuz@564/24173
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| HISTORY
+http://siptv-online.com:8789/18291/stevenjuz@564/24172
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| DOCUMENTARY
+http://siptv-online.com:8789/18291/stevenjuz@564/24171
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| NAT GEO WILD
+http://siptv-online.com:8789/18291/stevenjuz@564/24170
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TRAVEL   ESCAPE
+http://siptv-online.com:8789/18291/stevenjuz@564/24169
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| Wild TV
+http://siptv-online.com:8789/18291/stevenjuz@564/24168
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| WORLD FISHING NET
+http://siptv-online.com:8789/18291/stevenjuz@564/24167
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| DISNEY CANADA
+http://siptv-online.com:8789/18291/stevenjuz@564/24166
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| DISNEY JR
+http://siptv-online.com:8789/18291/stevenjuz@564/24165
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| BBC KIDS
+http://siptv-online.com:8789/18291/stevenjuz@564/24164
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| NICK
+http://siptv-online.com:8789/18291/stevenjuz@564/24163
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TELE TOON EAST
+http://siptv-online.com:8789/18291/stevenjuz@564/24162
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| TELEMAGINO
+http://siptv-online.com:8789/18291/stevenjuz@564/24161
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| FAMILY CHRGD
+http://siptv-online.com:8789/18291/stevenjuz@564/24160
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| FAMILY EAST
+http://siptv-online.com:8789/18291/stevenjuz@564/24159
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| FAMILY WEST
+http://siptv-online.com:8789/18291/stevenjuz@564/24158
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| KNOWLEDGE KIDS
+http://siptv-online.com:8789/18291/stevenjuz@564/24157
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| MAGIO
+http://siptv-online.com:8789/18291/stevenjuz@564/24156
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| Game TV
+http://siptv-online.com:8789/18291/stevenjuz@564/24155
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| MIRACLE
+http://siptv-online.com:8789/18291/stevenjuz@564/24154
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| MTV
+http://siptv-online.com:8789/18291/stevenjuz@564/24153
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| MUCH MUSIC
+http://siptv-online.com:8789/18291/stevenjuz@564/24152
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA|ALJALEYA-TV
+http://siptv-online.com:8789/18291/stevenjuz@564/24151
+#EXTINF:-1,group-title="" tvg-id="" tvg-name="" tvg-logo="",|CA| ZEE TV
+http://siptv-online.com:8789/18291/stevenjuz@564/24150
+#EXTM3U
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Canal 4 Tenerife
+http://5940924978228.streamlock.net:1935/Directo2/Directo2/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Canal Sur Cocina
+http://593fa17dec176.streamlock.net:1935/cscocina/cscocina.stream/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Canal Sur Flamenco [486p]
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_b2128000.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Canal Sur Flamenco
+http://593fa17dec176.streamlock.net:1935/csflamenco/csflamenco.stream/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Canal Sur La Banda
+http://593fa17dec176.streamlock.net:1935/cslabanda/cslabanda.stream/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Canal Sur Turismo [480p]
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/chunklist_b2128000.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Canal Sur Turismo
+http://593fa17dec176.streamlock.net:1935/csturismo/csturismo.stream/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",EITB.EUS [270p]
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",EITB.EUS [270p]
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Eitb.EUS [360p]
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",FIGHT TIME [1080p]
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",LANCELOT TV [576p]
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",LANCELOT TV [576p]
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Lebrija TV [576p]
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Red TV Spain
+http://178.132.6.97/RedTVSpain1/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TELEELX
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TELESAFOR
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TELEVALENCIA
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV TELEORO CANAL 13
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV3 CAT ENTERTAINMENT CATALAN
+http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV3CAT
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV3CAT
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV3CAT
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV3CAT
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV3CAT
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TVG XABARIN
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-name="" tvg-logo="",ANIMAL PLANET [480p]
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",HBO [720p]
+http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",ENERGY [480p]
+http://live.streams.ovh:1935/LIFEHD/LIFEHD/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",3/24 [360p]
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",3/24 [360p]
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000_DVR.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",3/24 [360p]
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Fight Time [360p]
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",SEVILLA FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",SEVILLA FC TV
+http://sevillafc_live-lh.akamaihd.net:80/i/video_0@354142/master.m3u8
+
+
+
+

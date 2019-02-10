@@ -9,7 +9,8 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="http://mobion.vn/Files/Image/admin/2017/12/08/temp_621947320104103.jpg",VTC7-Today TV HD
 https://cdn1.vtcnow.vn/live/eds/VTC7_7/hlsv3/VTC7_7-audio_20000=212400-video=800000.m3u8
-
+#EXTINF:-1,group-title=THVL1
+http://27.67.50.79:18080/133.m3u8?AdaptiveType=HLS&VOD_RequestID=9LY72mvhXhGTqx+mq+YiNF86mKWJzRv6nRR7uqHcCc704SB9zwUbGlyP4upRDZrGo/9Jik2K10Nc/atYWw5TqrHXYRz4Mp689BcrMnnQFM2QG2KJVfp/d6ZOVHamgssx&SessionID=66a046fe-eb8e-403e-9e82-5c2aafd00f5c&StreamID=7c7b280f-c7dd-4c6f-8784-873cb1a09399&MinBw=0&MaxBw=2000000
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",CinemaWorld 
 http://45.126.83.51/uq2663/h/h04/index.m3u8
 #EXTINF:-1 group-title="VTV",VTV1 HD

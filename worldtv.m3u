@@ -118,661 +118,515 @@ http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
 http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
 
 #EXTM3U
-#EXTINF:-1,ABC
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14099.m3u8
-#EXTINF:-1,ABC NEWS UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14100.m3u8
-#EXTINF:-1,CBN
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14070.m3u8
-#EXTINF:-1,CBS
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14069.m3u8
-#EXTINF:-1,CBSN
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14067.m3u8
-#EXTINF:-1,CNN UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14061.m3u8
-#EXTINF:-1,CNBC-US
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14059.m3u8
-#EXTINF:-1,CNBC World.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14060.m3u8
-#EXTINF:-1,FX East UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14015.m3u8
-#EXTINF:-1,FXM UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14014.m3u8
-#EXTINF:-1,FXX UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14013.m3u8
-#EXTINF:-1,FYI UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14012.m3u8
-#EXTINF:-1,GET TV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14011.m3u8
-#EXTINF:-1,Grit
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14010.m3u8
-#EXTINF:-1,GSN UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14009.m3u8
-#EXTINF:-1,AFN Prime Atlantic
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14095.m3u8
-#EXTINF:-1,AFN Movie
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14097.m3u8
-#EXTINF:-1,AFN News
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14096.m3u8
-#EXTINF:-1,AFN Prime Pacific
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14094.m3u8
-#EXTINF:-1,AFN Pulse
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14093.m3u8
-#EXTINF:-1,AFN Spectrum
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14092.m3u8
-#EXTINF:-1,AMC UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14085.m3u8
-#EXTINF:-1,ACTIONMAX UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14098.m3u8
-#EXTINF:-1,American Heroes Channel
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14087.m3u8
-#EXTINF:-1,AMERICAN HEROes NETWORK UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14088.m3u8
-#EXTINF:-1,AMG TV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14086.m3u8
-#EXTINF:-1,BET HER
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14080.m3u8
-#EXTINF:-1,BET'
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14079.m3u8
-#EXTINF:-1,BBC AMERICA
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14082.m3u8
-#EXTINF:-1,Big Ten Network
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14078.m3u8
-#EXTINF:-1,BLOOMBERG UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14077.m3u8
-#EXTINF:-1,BRAVO UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14076.m3u8
-#EXTINF:-1,CC
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14066.m3u8
-#EXTINF:-1,CINEMAX UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14062.m3u8
-#EXTINF:-1,CINEMAX ACTIONMAX
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14064.m3u8
-#EXTINF:-1,Cinemax 5 Starmax
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14065.m3u8
-#EXTINF:-1,Cinemax Moremax
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14063.m3u8
-#EXTINF:-1,HBO East
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14003.m3u8
-#EXTINF:-1,HBO COMEDY UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14006.m3u8
-#EXTINF:-1,HBO FAMILY UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14005.m3u8
-#EXTINF:-1,HBO SIGNATURE UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14002.m3u8
-#EXTINF:-1,HBO ZONE UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14004.m3u8
-#EXTINF:-1,LIFETIME MOVIE NETWORK UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13992.m3u8
-#EXTINF:-1,LIFETIME UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13991.m3u8
-#EXTINF:-1,MOREMAX UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13985.m3u8
-#EXTINF:-1,STARZ COMEDY UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13922.m3u8
-#EXTINF:-1,STARZ CINEMA UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13923.m3u8
-#EXTINF:-1,STARZ EDGE UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13921.m3u8
-#EXTINF:-1,STARZ ENCORE UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13919.m3u8
-#EXTINF:-1,STARZ KIDS & FAMILY UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13920.m3u8
-#EXTINF:-1,SYFY UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13917.m3u8
-#EXTINF:-1,Cozi
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14057.m3u8
-#EXTINF:-1,CW NETWORK UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14051.m3u8
-#EXTINF:-1,DESTINATION AMERICA UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14048.m3u8
-#EXTINF:-1,Epix
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14033.m3u8
-#EXTINF:-1,escape
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14034.m3u8
-#EXTINF:-1,FOX BUSINESS UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14029.m3u8
-#EXTINF:-1,Fox Soccer Plus HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14025.m3u8
-#EXTINF:-1,HALLMARK CHANNEL UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14008.m3u8
-#EXTINF:-1,HGTV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14001.m3u8
-#EXTINF:-1,HLN
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13998.m3u8
-#EXTINF:-1,IFC UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13997.m3u8
-#EXTINF:-1,iON
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13995.m3u8
-#EXTINF:-1,ME TV UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13986.m3u8
-#EXTINF:-1,MLB Network
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13875.m3u8
-#EXTINF:-1,MSNBC HD UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13984.m3u8
-#EXTINF:-1,NBC Upstate NY UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13971.m3u8
-#EXTINF:-1,NEWS 12 THE BRONX UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13966.m3u8
-#EXTINF:-1,NFL NETWORK
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13965.m3u8
-#EXTINF:-1,NFL NOW
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13964.m3u8
-#EXTINF:-1,NFL Red Zone
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13963.m3u8
-#EXTINF:-1,NHL Network HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13949.m3u8
-#EXTINF:-1,OXYGEN TV UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13941.m3u8
-#EXTINF:-1,OWN UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13942.m3u8
-#EXTINF:-1,PResS TV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13938.m3u8
-#EXTINF:-1,Pursuit
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13937.m3u8
-#EXTINF:-1,Red Bull TV HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13934.m3u8
-#EXTINF:-1,Reelz Channel UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13932.m3u8
-#EXTINF:-1,SEC Network
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13929.m3u8
-#EXTINF:-1,SHOWTIME UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13925.m3u8
-#EXTINF:-1,SHOWTIME 2 UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13928.m3u8
-#EXTINF:-1,SHOWTIME SHOWCASE UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13926.m3u8
-#EXTINF:-1,SMITHSONIAN CHANNEL UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13924.m3u8
-#EXTINF:-1,SUNDANCE TV UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13918.m3u8
-#EXTINF:-1,TBN
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13915.m3u8
-#EXTINF:-1,TCM UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13914.m3u8
-#EXTINF:-1,TBS UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13916.m3u8
-#EXTINF:-1,The Blaze
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13909.m3u8
-#EXTINF:-1,THRILLERMAX UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13910.m3u8
-#EXTINF:-1,TLC 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13907.m3u8
-#EXTINF:-1,TLC UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13908.m3u8
-#EXTINF:-1,TNT 1
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13906.m3u8
-#EXTINF:-1,TNT 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13905.m3u8
-#EXTINF:-1,TRU TV UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13902.m3u8
-#EXTINF:-1,TRT World
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13903.m3u8
-#EXTINF:-1,TV Land
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13900.m3u8
-#EXTINF:-1,TV ONE UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13901.m3u8
-#EXTINF:-1,UNIVISION
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13897.m3u8
-#EXTINF:-1,VELOCITY UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13895.m3u8
-#EXTINF:-1,WE TV UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13891.m3u8
-#EXTINF:-1,Yes Network
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13888.m3u8
-#EXTINF:-1,WGN AMERICA UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13890.m3u8
-#EXTINF:-1,USA NETWORK UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13896.m3u8
-#EXTINF:-1,CARTOON NETWORK UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14072.m3u8
-#EXTINF:-1,DISNEY CHANNEL UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14046.m3u8
-#EXTINF:-1,DISNEY JR UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14045.m3u8
-#EXTINF:-1,DISNEY XD UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14044.m3u8
-#EXTINF:-1,NICKELODEON UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13946.m3u8
-#EXTINF:-1,NICK JR UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13947.m3u8
-#EXTINF:-1,NICKELODEON 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13945.m3u8
-#EXTINF:-1,C Toon Kids
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14052.m3u8
-#EXTINF:-1,A&E
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14083.m3u8
-#EXTINF:-1,E! UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14040.m3u8
-#EXTINF:-1,COOKING CHANNEL
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14058.m3u8
-#EXTINF:-1,ANIMAL PLANET'
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14084.m3u8
-#EXTINF:-1,DISCOVERY LIFE UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14047.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE CHANNEL
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14043.m3u8
-#EXTINF:-1,CRIME & INVESTIGATION NETWORK UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14053.m3u8
-#EXTINF:-1,Investigation Discovery
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13996.m3u8
-#EXTINF:-1,Nat Geo
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13974.m3u8
-#EXTINF:-1,Nat Geo Wild 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13973.m3u8
-#EXTINF:-1,History Channel
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13999.m3u8
-#EXTINF:-1,DIY NETWORK UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14041.m3u8
-#EXTINF:-1,NASA TV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13972.m3u8
-#EXTINF:-1,OUTDOOR CHANNEL UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13943.m3u8
-#EXTINF:-1,QVC UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13935.m3u8
-#EXTINF:-1,RT America
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13931.m3u8
-#EXTINF:-1,Science Channel
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13930.m3u8
-#EXTINF:-1,PARAMOUNT NETWORK UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13940.m3u8
-#EXTINF:-1,TRAVEL CHANNEL UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13904.m3u8
-#EXTINF:-1,Tennis Channel
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13913.m3u8
-#EXTINF:-1,Tennis Channel 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13912.m3u8
-#EXTINF:-1,WWE NETWORK
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13889.m3u8
-#EXTINF:-1,Fight Sport 1
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14032.m3u8
-#EXTINF:-1,Fight Sport 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14031.m3u8
-#EXTINF:-1,UFC FIGHT NETWORK
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13899.m3u8
-#EXTINF:-1,UFC Fight Pass 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13898.m3u8
-#EXTINF:-1,AFN Sports
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14091.m3u8
-#EXTINF:-1,AFN Sports 1
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14089.m3u8
-#EXTINF:-1,AFN Sports 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14090.m3u8
-#EXTINF:-1,BTN Sport
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14075.m3u8
-#EXTINF:-1,BYU Sports TV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14074.m3u8
-#EXTINF:-1,C-SPAN 1 HD UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14056.m3u8
-#EXTINF:-1,C-SPAN 2 HD UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14055.m3u8
-#EXTINF:-1,C-SPAN 3 HD UHD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14054.m3u8
-#EXTINF:-1,CBS Sports
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14068.m3u8
-#EXTINF:-1,ESPN News
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14035.m3u8
-#EXTINF:-1,ESPN HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14038.m3u8
-#EXTINF:-1,ESPN 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14037.m3u8
-#EXTINF:-1,ESPN 3.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14036.m3u8
-#EXTINF:-1,Fox Sports 1
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14024.m3u8
-#EXTINF:-1,Fox Sports 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14023.m3u8
-#EXTINF:-1,NBA TV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13970.m3u8
-#EXTINF:-1,NBC Golf
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13969.m3u8
-#EXTINF:-1,NBC Sports
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13967.m3u8
-#EXTINF:-1,NFL SUNDAY TICKET 706
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13961.m3u8
-#EXTINF:-1,NFL SUNDAY TICKET 707
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13960.m3u8
-#EXTINF:-1,NFL SUNDAY TICKET 708
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13959.m3u8
-#EXTINF:-1,NFL SUNDAY TICKET 709
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13958.m3u8
-#EXTINF:-1,NFL SUNDAY TICKET 710
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13957.m3u8
-#EXTINF:-1,NFL SUNDAY TICKET 711
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13956.m3u8
-#EXTINF:-1,NFL SUNDAY TICKET 712
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13955.m3u8
-#EXTINF:-1,NFL SUNDAY TICKET 713
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13954.m3u8
-#EXTINF:-1,NFL SUNDAY TICKET 714
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13953.m3u8
-#EXTINF:-1,NFL SUNDAY TICKET 715
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13952.m3u8
-#EXTINF:-1,NFL SUNDAY TICKET 716
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13951.m3u8
-#EXTINF:-1,NFL SUNDAY TICKET 717
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13950.m3u8
-#EXTINF:-1,ˢᵖ SKYNET SPORTS ʜᴅ
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13874.m3u8
-#EXTINF:-1,ˢᵖ SKYNET SPORTS 1
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13873.m3u8
-#EXTINF:-1,ˢᵖ SKYNET SPORTS 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13872.m3u8
-#EXTINF:-1,ˢᵖ SKYNET SPORTS 5
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13869.m3u8
-#EXTINF:-1,ˢᵖ SKYNET SPORTS 6
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13868.m3u8
-#EXTINF:-1,Sportsnet World HD.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13876.m3u8
-#EXTINF:-1,Sportsnet One HD.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13877.m3u8
-#EXTINF:-1,Sportsnet 360 HD.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13878.m3u8
-#EXTINF:-1,TSN Sport 1 HD.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13886.m3u8
-#EXTINF:-1,TSN Sport 2 HD.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13885.m3u8
-#EXTINF:-1,TSN Sport 3 HD.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13884.m3u8
-#EXTINF:-1,TSN Sport 4 HD.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13883.m3u8
-#EXTINF:-1,TSN Sport 5 HD.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/13882.m3u8
-#EXTINF:-1,BBC One
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3785.m3u8
-#EXTINF:-1,BBC Two
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3783.m3u8
-#EXTINF:-1,BBC Three
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3782.m3u8
-#EXTINF:-1,BBC Four HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/6034.m3u8
-#EXTINF:-1,BBC World News
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3772.m3u8
-#EXTINF:-1,BBC News.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3771.m3u8
-#EXTINF:-1,BBC Alba
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/6035.m3u8
-#EXTINF:-1,Sky News
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4830.m3u8
-#EXTINF:-1,CNBC
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3761.m3u8
-#EXTINF:-1,CBBC HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3781.m3u8
-#EXTINF:-1,Euronews UK
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3767.m3u8
-#EXTINF:-1,ITV HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/6032.m3u8
-#EXTINF:-1,ITV 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/6033.m3u8
-#EXTINF:-1,ITV 3
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3780.m3u8
-#EXTINF:-1,ITV 4
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3779.m3u8
-#EXTINF:-1,ITV BE
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3778.m3u8
-#EXTINF:-1,ITV Encore
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3777.m3u8
-#EXTINF:-1,Channel 4
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3776.m3u8
-#EXTINF:-1,Channel 5
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3775.m3u8
-#EXTINF:-1,Channel 5 +1
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3760.m3u8
-#EXTINF:-1,More 4
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3774.m3u8
-#EXTINF:-1,E4
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3773.m3u8
-#EXTINF:-1,RTE ONE HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3759.m3u8
-#EXTINF:-1,Bloomberg
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3763.m3u8
-#EXTINF:-1,FOX News
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3765.m3u8
-#EXTINF:-1,CNN International
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3769.m3u8
-#EXTINF:-1,CGTN News
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3764.m3u8
-#EXTINF:-1,Gold
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4818.m3u8
-#EXTINF:-1,Good Food
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4842.m3u8
-#EXTINF:-1,Food Network
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3736.m3u8
-#EXTINF:-1,TCM.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3745.m3u8
-#EXTINF:-1,CBS.Action
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3743.m3u8
-#EXTINF:-1,CBS Drama
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3742.m3u8
-#EXTINF:-1,CBS Reality
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4862.m3u8
-#EXTINF:-1,Film4
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3744.m3u8
-#EXTINF:-1,Comedy Central Extra
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4841.m3u8
-#EXTINF:-1,Crime & Investigation
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4810.m3u8
-#EXTINF:-1,Fox
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4838.m3u8
-#EXTINF:-1,Movies24
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/6036.m3u8
-#EXTINF:-1,Movies4Men
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/6037.m3u8
-#EXTINF:-1,Sky Cinema Premier HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4852.m3u8
-#EXTINF:-1,Sky Cinema Select HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4850.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4853.m3u8
-#EXTINF:-1,Sky Cinema Thriller HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4860.m3u8
-#EXTINF:-1,Sky Cinema Scifi & Horror HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4858.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4855.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4859.m3u8
-#EXTINF:-1,Sky Cinema Bourne HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4856.m3u8
-#EXTINF:-1,Sky Cinema Greats
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4857.m3u8
-#EXTINF:-1,Sky Cinema Disney HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4861.m3u8
-#EXTINF:-1,Horror Channel
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3738.m3u8
-#EXTINF:-1,Comedy Central
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3733.m3u8
-#EXTINF:-1,Sky One
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4865.m3u8
-#EXTINF:-1,Sky 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4864.m3u8
-#EXTINF:-1,Sky Arts
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4863.m3u8
-#EXTINF:-1,Sky.Atlantic
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4851.m3u8
-#EXTINF:-1,Sky Living
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4854.m3u8
-#EXTINF:-1,Capital TV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4741.m3u8
-#EXTINF:-1,Tru TV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4840.m3u8
-#EXTINF:-1,True Movies 1
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3741.m3u8
-#EXTINF:-1,True Entertainment
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3739.m3u8
-#EXTINF:-1,E!'
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4867.m3u8
-#EXTINF:-1,STV Central West
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4820.m3u8
-#EXTINF:-1,TG4
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4821.m3u8
-#EXTINF:-1,The Vault
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4878.m3u8
-#EXTINF:-1,Travel Channel
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4808.m3u8
-#EXTINF:-1,Universal Channel
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4809.m3u8
-#EXTINF:-1,Animal Planet.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4804.m3u8
-#EXTINF:-1,Discovery History
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4813.m3u8
-#EXTINF:-1,Discovery.Investigation
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4812.m3u8
-#EXTINF:-1,Discovery Shed
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4814.m3u8
-#EXTINF:-1,Discovery Turbo
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4811.m3u8
-#EXTINF:-1,National Geo.graphic
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4806.m3u8
-#EXTINF:-1,National Geography Wild
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4807.m3u8
-#EXTINF:-1,Quest
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3731.m3u8
-#EXTINF:-1,Challenge
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4756.m3u8
-#EXTINF:-1,Channel Aka
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4755.m3u8
-#EXTINF:-1,Christmas Gold
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4848.m3u8
-#EXTINF:-1,Hum Europe
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4798.m3u8
-#EXTINF:-1,MUTV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4769.m3u8
-#EXTINF:-1,My 5
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4835.m3u8
-#EXTINF:-1,NDTV 24x7
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4797.m3u8
-#EXTINF:-1,NHK
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4739.m3u8
-#EXTINF:-1,Pick
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4866.m3u8
-#EXTINF:-1,Prime TV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4751.m3u8
-#EXTINF:-1,Really
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4748.m3u8
-#EXTINF:-1,Real Lives
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4826.m3u8
-#EXTINF:-1,Rishtey
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4788.m3u8
-#EXTINF:-1,RTE TWO HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4823.m3u8
-#EXTINF:-1,Dmax UK
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3728.m3u8
-#EXTINF:-1,Lifetime
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3737.m3u8
-#EXTINF:-1,4Seven
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4837.m3u8
-#EXTINF:-1,5 Star
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4831.m3u8
-#EXTINF:-1,Alibi
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4839.m3u8
-#EXTINF:-1,PBS America
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3730.m3u8
-#EXTINF:-1,At The Races
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4763.m3u8
-#EXTINF:-1,BET
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4816.m3u8
-#EXTINF:-1,Bike
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4757.m3u8
-#EXTINF:-1,Colors
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4789.m3u8
-#EXTINF:-1,Dave ja vu
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4828.m3u8
-#EXTINF:-1,S4C
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4752.m3u8
-#EXTINF:-1,MTV Dance
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4885.m3u8
-#EXTINF:-1,MTV Hits
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4882.m3u8
-#EXTINF:-1,MTV Music
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4881.m3u8
-#EXTINF:-1,MTV Rocks
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4883.m3u8
-#EXTINF:-1,MTV.Base
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4737.m3u8
-#EXTINF:-1,MTV.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3729.m3u8
-#EXTINF:-1,VH1
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4877.m3u8
-#EXTINF:-1,Viceland
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4827.m3u8
-#EXTINF:-1,CITV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/3726.m3u8
-#EXTINF:-1,4Music
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4874.m3u8
-#EXTINF:-1,Box Nation
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4772.m3u8
-#EXTINF:-1,Premier Sports
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4761.m3u8
-#EXTINF:-1,Eurosport 1.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4771.m3u8
-#EXTINF:-1,Eurosport 2.
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4770.m3u8
-#EXTINF:-1,Eir Sport1
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4765.m3u8
-#EXTINF:-1,Eir Sport 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4740.m3u8
-#EXTINF:-1,Sky Sports News UK
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4785.m3u8
-#EXTINF:-1,Sky Sports Action
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4783.m3u8
-#EXTINF:-1,Sky Sports F1
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4778.m3u8
-#EXTINF:-1,Sky Sports 5 HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4779.m3u8
-#EXTINF:-1,Sky Sports Main Event
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4784.m3u8
-#EXTINF:-1,Sky Sports MIX
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4782.m3u8
-#EXTINF:-1,Sky Sports Cricket
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4781.m3u8
-#EXTINF:-1,Bt Sport Extra1
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4746.m3u8
-#EXTINF:-1,Sky Sports Golf
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4780.m3u8
-#EXTINF:-1,BT Sports 1
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4777.m3u8
-#EXTINF:-1,BT Sports 2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4776.m3u8
-#EXTINF:-1,BT Sports 3
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4775.m3u8
-#EXTINF:-1,BT Sport Extra_2
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4745.m3u8
-#EXTINF:-1,BT Sport Extra 3
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4744.m3u8
-#EXTINF:-1,BT Sport Extra 4
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4743.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4742.m3u8
-#EXTINF:-1,Racing
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4764.m3u8
-#EXTINF:-1,Chelsea TV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4768.m3u8
-#EXTINF:-1,Eden
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4833.m3u8
-#EXTINF:-1,Horse and Country
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4760.m3u8
-#EXTINF:-1,Motorsport TV
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/4762.m3u8
-#EXTINF:-1,CA: TVA
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14442.m3u8
-#EXTINF:-1,CA: CBC HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14438.m3u8
-#EXTINF:-1,CA: CBC NEWS TORONTO HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14439.m3u8
-#EXTINF:-1,CA: CTV (Kitchener) HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14435.m3u8
-#EXTINF:-1,CA: CTV NEWS NETWORK
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14433.m3u8
-#EXTINF:-1,CA: CTV TWO HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14434.m3u8
-#EXTINF:-1,CA: ACTION HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14437.m3u8
-#EXTINF:-1,CA: RDI (FR)
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14440.m3u8
-#EXTINF:-1,CA: V MONTREAL
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14441.m3u8
-#EXTINF:-1,CA: CANAL D
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14436.m3u8
-#EXTINF:-1,CA: TVA SPORTS 1 HD
-http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/14443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US|CA  AKC TV" tvg-logo="" group-title="USA",US|CA  AKC TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3065
+#EXTINF:-1 tvg-id="" tvg-name="US|CA  RADIO MONTE CARLO TV" tvg-logo="" group-title="USA",US|CA  RADIO MONTE CARLO TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3002
+#EXTINF:-1 tvg-id="" tvg-name="US|CA  RETRO MUSIC" tvg-logo="" group-title="USA",US|CA  RETRO MUSIC
+http://24.thgss.com:8000/94961552266377/94961552266377/3000
+#EXTINF:-1 tvg-id="" tvg-name="US|CA  WHIO 7 News" tvg-logo="" group-title="USA",US|CA  WHIO 7 News
+http://24.thgss.com:8000/94961552266377/94961552266377/3001
+#EXTINF:-1 tvg-id="" tvg-name="US|CA 10 Health TV" tvg-logo="" group-title="USA",US|CA 10 Health TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2955
+#EXTINF:-1 tvg-id="" tvg-name="US|CA ABC   east" tvg-logo="" group-title="USA",US|CA ABC   east
+http://24.thgss.com:8000/94961552266377/94961552266377/3067
+#EXTINF:-1 tvg-id="" tvg-name="US|CA ABC 7 NEWS" tvg-logo="" group-title="USA",US|CA ABC 7 NEWS
+http://24.thgss.com:8000/94961552266377/94961552266377/3069
+#EXTINF:-1 tvg-id="" tvg-name="US|CA ABC NEWS HD" tvg-logo="" group-title="USA",US|CA ABC NEWS HD
+http://24.thgss.com:8000/94961552266377/94961552266377/3068
+#EXTINF:-1 tvg-id="" tvg-name="US|CA ABNSAT TV" tvg-logo="" group-title="USA",US|CA ABNSAT TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3066
+#EXTINF:-1 tvg-id="" tvg-name="US|CA ARTS" tvg-logo="" group-title="USA",US|CA ARTS
+http://24.thgss.com:8000/94961552266377/94961552266377/3064
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Atlanta Channel" tvg-logo="" group-title="USA",US|CA Atlanta Channel
+http://24.thgss.com:8000/94961552266377/94961552266377/3063
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Better Life TV" tvg-logo="" group-title="USA",US|CA Better Life TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3059
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Big Ten Network" tvg-logo="" group-title="USA",US|CA Big Ten Network
+http://24.thgss.com:8000/94961552266377/94961552266377/3061
+#EXTINF:-1 tvg-id="" tvg-name="US|CA BLOOMBERG" tvg-logo="" group-title="USA",US|CA BLOOMBERG
+http://24.thgss.com:8000/94961552266377/94961552266377/3062
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Bloomington TV" tvg-logo="" group-title="USA",US|CA Bloomington TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3060
+#EXTINF:-1 tvg-id="" tvg-name="US|CA BYU.TV" tvg-logo="" group-title="USA",US|CA BYU.TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3058
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Cable Central TV" tvg-logo="" group-title="USA",US|CA Cable Central TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3047
+#EXTINF:-1 tvg-id="" tvg-name="US|CA CALIFORNIA MUSIC" tvg-logo="" group-title="USA",US|CA CALIFORNIA MUSIC
+http://24.thgss.com:8000/94961552266377/94961552266377/3057
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Catholic TV" tvg-logo="" group-title="USA",US|CA Catholic TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3056
+#EXTINF:-1 tvg-id="" tvg-name="US|CA CBN" tvg-logo="" group-title="USA",US|CA CBN
+http://24.thgss.com:8000/94961552266377/94961552266377/3053
+#EXTINF:-1 tvg-id="" tvg-name="US|CA CBN NEWS" tvg-logo="" group-title="USA",US|CA CBN NEWS
+http://24.thgss.com:8000/94961552266377/94961552266377/3055
+#EXTINF:-1 tvg-id="" tvg-name="US|CA CBS 47 NEWS" tvg-logo="" group-title="USA",US|CA CBS 47 NEWS
+http://24.thgss.com:8000/94961552266377/94961552266377/3052
+#EXTINF:-1 tvg-id="" tvg-name="US|CA CBSN News" tvg-logo="" group-title="USA",US|CA CBSN News
+http://24.thgss.com:8000/94961552266377/94961552266377/3054
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Central Valley Talk" tvg-logo="" group-title="USA",US|CA Central Valley Talk
+http://24.thgss.com:8000/94961552266377/94961552266377/3049
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Cerritos TV3" tvg-logo="" group-title="USA",US|CA Cerritos TV3
+http://24.thgss.com:8000/94961552266377/94961552266377/3051
+#EXTINF:-1 tvg-id="" tvg-name="US|CA CHANNEL 11 NEWS" tvg-logo="" group-title="USA",US|CA CHANNEL 11 NEWS
+http://24.thgss.com:8000/94961552266377/94961552266377/3043
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Cheddar" tvg-logo="" group-title="USA",US|CA Cheddar
+http://24.thgss.com:8000/94961552266377/94961552266377/3042
+#EXTINF:-1 tvg-id="" tvg-name="US|CA City of Charlotte" tvg-logo="" group-title="USA",US|CA City of Charlotte
+http://24.thgss.com:8000/94961552266377/94961552266377/3048
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Classic TV 4U" tvg-logo="" group-title="USA",US|CA Classic TV 4U
+http://24.thgss.com:8000/94961552266377/94961552266377/3046
+#EXTINF:-1 tvg-id="" tvg-name="US|CA CNN int" tvg-logo="" group-title="USA",US|CA CNN int
+http://24.thgss.com:8000/94961552266377/94961552266377/3040
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Collier TV" tvg-logo="" group-title="USA",US|CA Collier TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3041
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Columbia Network" tvg-logo="" group-title="USA",US|CA Columbia Network
+http://24.thgss.com:8000/94961552266377/94961552266377/3050
+#EXTINF:-1 tvg-id="" tvg-name="US|CA CT-N" tvg-logo="" group-title="USA",US|CA CT-N
+http://24.thgss.com:8000/94961552266377/94961552266377/3039
+#EXTINF:-1 tvg-id="" tvg-name="US|CA CTN" tvg-logo="" group-title="USA",US|CA CTN
+http://24.thgss.com:8000/94961552266377/94961552266377/3037
+#EXTINF:-1 tvg-id="" tvg-name="US|CA CYC" tvg-logo="" group-title="USA",US|CA CYC
+http://24.thgss.com:8000/94961552266377/94961552266377/3038
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Darcizzle" tvg-logo="" group-title="USA",US|CA Darcizzle
+http://24.thgss.com:8000/94961552266377/94961552266377/3032
+#EXTINF:-1 tvg-id="" tvg-name="US|CA DAYSTAR TV" tvg-logo="" group-title="USA",US|CA DAYSTAR TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3036
+#EXTINF:-1 tvg-id="" tvg-name="US|CA DCN" tvg-logo="" group-title="USA",US|CA DCN
+http://24.thgss.com:8000/94961552266377/94961552266377/3035
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Denver 8 TV" tvg-logo="" group-title="USA",US|CA Denver 8 TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3034
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Destination Network" tvg-logo="" group-title="USA",US|CA Destination Network
+http://24.thgss.com:8000/94961552266377/94961552266377/3030
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Ditty TV" tvg-logo="" group-title="USA",US|CA Ditty TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3033
+#EXTINF:-1 tvg-id="" tvg-name="US|CA DKN" tvg-logo="" group-title="USA",US|CA DKN
+http://24.thgss.com:8000/94961552266377/94961552266377/3029
+#EXTINF:-1 tvg-id="" tvg-name="US|CA ESPN 2" tvg-logo="" group-title="USA",US|CA ESPN 2
+http://24.thgss.com:8000/94961552266377/94961552266377/3027
+#EXTINF:-1 tvg-id="" tvg-name="US|CA FOX 23 NEWS" tvg-logo="" group-title="USA",US|CA FOX 23 NEWS
+http://24.thgss.com:8000/94961552266377/94961552266377/3018
+#EXTINF:-1 tvg-id="" tvg-name="US|CA FOX 25 BOSTON" tvg-logo="" group-title="USA",US|CA FOX 25 BOSTON
+http://24.thgss.com:8000/94961552266377/94961552266377/3017
+#EXTINF:-1 tvg-id="" tvg-name="US|CA FOX 25 NEWS" tvg-logo="" group-title="USA",US|CA FOX 25 NEWS
+http://24.thgss.com:8000/94961552266377/94961552266377/3023
+#EXTINF:-1 tvg-id="" tvg-name="US|CA FOX 5 NEWS" tvg-logo="" group-title="USA",US|CA FOX 5 NEWS
+http://24.thgss.com:8000/94961552266377/94961552266377/3022
+#EXTINF:-1 tvg-id="" tvg-name="US|CA FOX COMEDY" tvg-logo="" group-title="USA",US|CA FOX COMEDY
+http://24.thgss.com:8000/94961552266377/94961552266377/3020
+#EXTINF:-1 tvg-id="" tvg-name="US|CA FOX SPORT RACING" tvg-logo="" group-title="USA",US|CA FOX SPORT RACING
+http://24.thgss.com:8000/94961552266377/94961552266377/3019
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Free Speech TV" tvg-logo="" group-title="USA",US|CA Free Speech TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3021
+#EXTINF:-1 tvg-id="" tvg-name="US|CA GC Church TV" tvg-logo="" group-title="USA",US|CA GC Church TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3006
+#EXTINF:-1 tvg-id="" tvg-name="US|CA HBO 2" tvg-logo="" group-title="USA",US|CA HBO 2
+http://24.thgss.com:8000/94961552266377/94961552266377/2998
+#EXTINF:-1 tvg-id="" tvg-name="US|CA HBO 3" tvg-logo="" group-title="USA",US|CA HBO 3
+http://24.thgss.com:8000/94961552266377/94961552266377/2967
+#EXTINF:-1 tvg-id="" tvg-name="US|CA HOPE CHANNEL" tvg-logo="" group-title="USA",US|CA HOPE CHANNEL
+http://24.thgss.com:8000/94961552266377/94961552266377/3015
+#EXTINF:-1 tvg-id="" tvg-name="US|CA IBN TV" tvg-logo="" group-title="USA",US|CA IBN TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2989
+#EXTINF:-1 tvg-id="" tvg-name="US|CA IMPAC FRESLING" tvg-logo="" group-title="USA",US|CA IMPAC FRESLING
+http://24.thgss.com:8000/94961552266377/94961552266377/2996
+#EXTINF:-1 tvg-id="" tvg-name="US|CA INFOWARS" tvg-logo="" group-title="USA",US|CA INFOWARS
+http://24.thgss.com:8000/94961552266377/94961552266377/3014
+#EXTINF:-1 tvg-id="" tvg-name="US|CA InfoWars TV" tvg-logo="" group-title="USA",US|CA InfoWars TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2961
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Jewish Life TV" tvg-logo="" group-title="USA",US|CA Jewish Life TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2943
+#EXTINF:-1 tvg-id="" tvg-name="US|CA KEY TV" tvg-logo="" group-title="USA",US|CA KEY TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2995
+#EXTINF:-1 tvg-id="" tvg-name="US|CA KIRO-TV" tvg-logo="" group-title="USA",US|CA KIRO-TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3008
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Knowledge Network" tvg-logo="" group-title="USA",US|CA Knowledge Network
+http://24.thgss.com:8000/94961552266377/94961552266377/2991
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Kool TV" tvg-logo="" group-title="USA",US|CA Kool TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2990
+#EXTINF:-1 tvg-id="" tvg-name="US|CA LA 36" tvg-logo="" group-title="USA",US|CA LA 36
+http://24.thgss.com:8000/94961552266377/94961552266377/2975
+#EXTINF:-1 tvg-id="" tvg-name="US|CA LFUCG" tvg-logo="" group-title="USA",US|CA LFUCG
+http://24.thgss.com:8000/94961552266377/94961552266377/2974
+#EXTINF:-1 tvg-id="" tvg-name="US|CA LifeChurch TV" tvg-logo="" group-title="USA",US|CA LifeChurch TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2953
+#EXTINF:-1 tvg-id="" tvg-name="US|CA LNK TV" tvg-logo="" group-title="USA",US|CA LNK TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3025
+#EXTINF:-1 tvg-id="" tvg-name="US|CA LNKTV City" tvg-logo="" group-title="USA",US|CA LNKTV City
+http://24.thgss.com:8000/94961552266377/94961552266377/3026
+#EXTINF:-1 tvg-id="" tvg-name="US|CA LTV" tvg-logo="" group-title="USA",US|CA LTV
+http://24.thgss.com:8000/94961552266377/94961552266377/2992
+#EXTINF:-1 tvg-id="" tvg-name="US|CA LTV GOV" tvg-logo="" group-title="USA",US|CA LTV GOV
+http://24.thgss.com:8000/94961552266377/94961552266377/2993
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Midpeninsula TV" tvg-logo="" group-title="USA",US|CA Midpeninsula TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2952
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Most Video TV HD" tvg-logo="" group-title="USA",US|CA Most Video TV HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2945
+#EXTINF:-1 tvg-id="" tvg-name="US|CA New Orleans TV" tvg-logo="" group-title="USA",US|CA New Orleans TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2942
+#EXTINF:-1 tvg-id="" tvg-name="US|CA NEWS 25" tvg-logo="" group-title="USA",US|CA NEWS 25
+http://24.thgss.com:8000/94961552266377/94961552266377/2954
+#EXTINF:-1 tvg-id="" tvg-name="US|CA NEWSMAX TV" tvg-logo="" group-title="USA",US|CA NEWSMAX TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3003
+#EXTINF:-1 tvg-id="" tvg-name="US|CA NewsmaxTV" tvg-logo="" group-title="USA",US|CA NewsmaxTV
+http://24.thgss.com:8000/94961552266377/94961552266377/3012
+#EXTINF:-1 tvg-id="" tvg-name="US|CA NWCT 12" tvg-logo="" group-title="USA",US|CA NWCT 12
+http://24.thgss.com:8000/94961552266377/94961552266377/2987
+#EXTINF:-1 tvg-id="" tvg-name="US|CA ORANGE TV" tvg-logo="" group-title="USA",US|CA ORANGE TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2947
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Oscar Aguero Ministry" tvg-logo="" group-title="USA",US|CA Oscar Aguero Ministry
+http://24.thgss.com:8000/94961552266377/94961552266377/2973
+#EXTINF:-1 tvg-id="" tvg-name="US|CA PANAMA CITY" tvg-logo="" group-title="USA",US|CA PANAMA CITY
+http://24.thgss.com:8000/94961552266377/94961552266377/3016
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Pawleys Island" tvg-logo="" group-title="USA",US|CA Pawleys Island
+http://24.thgss.com:8000/94961552266377/94961552266377/2966
+#EXTINF:-1 tvg-id="" tvg-name="US|CA PCTV 26" tvg-logo="" group-title="USA",US|CA PCTV 26
+http://24.thgss.com:8000/94961552266377/94961552266377/2983
+#EXTINF:-1 tvg-id="" tvg-name="US|CA PEOPLE TV" tvg-logo="" group-title="USA",US|CA PEOPLE TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2965
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Pluto TV Movies 1" tvg-logo="" group-title="USA",US|CA Pluto TV Movies 1
+http://24.thgss.com:8000/94961552266377/94961552266377/2964
+#EXTINF:-1 tvg-id="" tvg-name="US|CA REVN" tvg-logo="" group-title="USA",US|CA REVN
+http://24.thgss.com:8000/94961552266377/94961552266377/2977
+#EXTINF:-1 tvg-id="" tvg-name="US|CA RTN Channel 11" tvg-logo="" group-title="USA",US|CA RTN Channel 11
+http://24.thgss.com:8000/94961552266377/94961552266377/2972
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Runway TV" tvg-logo="" group-title="USA",US|CA Runway TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2963
+#EXTINF:-1 tvg-id="" tvg-name="US|CA San Francisco Gov TV" tvg-logo="" group-title="USA",US|CA San Francisco Gov TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2994
+#EXTINF:-1 tvg-id="" tvg-name="US|CA SBN Internacional TV" tvg-logo="" group-title="USA",US|CA SBN Internacional TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2981
+#EXTINF:-1 tvg-id="" tvg-name="US|CA SBN International" tvg-logo="" group-title="USA",US|CA SBN International
+http://24.thgss.com:8000/94961552266377/94961552266377/2988
+#EXTINF:-1 tvg-id="" tvg-name="US|CA SFGovTV" tvg-logo="" group-title="USA",US|CA SFGovTV
+http://24.thgss.com:8000/94961552266377/94961552266377/2982
+#EXTINF:-1 tvg-id="" tvg-name="US|CA SFGovTV 2" tvg-logo="" group-title="USA",US|CA SFGovTV 2
+http://24.thgss.com:8000/94961552266377/94961552266377/2971
+#EXTINF:-1 tvg-id="" tvg-name="US|CA SG TV" tvg-logo="" group-title="USA",US|CA SG TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3010
+#EXTINF:-1 tvg-id="" tvg-name="US|CA SONY MOVIE" tvg-logo="" group-title="USA",US|CA SONY MOVIE
+http://24.thgss.com:8000/94961552266377/94961552266377/2949
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Southeastern Channel" tvg-logo="" group-title="USA",US|CA Southeastern Channel
+http://24.thgss.com:8000/94961552266377/94961552266377/3009
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Spydar TV" tvg-logo="" group-title="USA",US|CA Spydar TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2962
+#EXTINF:-1 tvg-id="" tvg-name="US|CA TBN armenial" tvg-logo="" group-title="USA",US|CA TBN armenial
+http://24.thgss.com:8000/94961552266377/94961552266377/2984
+#EXTINF:-1 tvg-id="" tvg-name="US|CA The Country Network" tvg-logo="" group-title="USA",US|CA The Country Network
+http://24.thgss.com:8000/94961552266377/94961552266377/2986
+#EXTINF:-1 tvg-id="" tvg-name="US|CA The Florida Channel" tvg-logo="" group-title="USA",US|CA The Florida Channel
+http://24.thgss.com:8000/94961552266377/94961552266377/3004
+#EXTINF:-1 tvg-id="" tvg-name="US|CA The NOW Network" tvg-logo="" group-title="USA",US|CA The NOW Network
+http://24.thgss.com:8000/94961552266377/94961552266377/2985
+#EXTINF:-1 tvg-id="" tvg-name="US|CA TSTV" tvg-logo="" group-title="USA",US|CA TSTV
+http://24.thgss.com:8000/94961552266377/94961552266377/2959
+#EXTINF:-1 tvg-id="" tvg-name="US|CA TVV" tvg-logo="" group-title="USA",US|CA TVV
+http://24.thgss.com:8000/94961552266377/94961552266377/3007
+#EXTINF:-1 tvg-id="" tvg-name="US|CA TVW" tvg-logo="" group-title="USA",US|CA TVW
+http://24.thgss.com:8000/94961552266377/94961552266377/2951
+#EXTINF:-1 tvg-id="" tvg-name="US|CA TVW 2" tvg-logo="" group-title="USA",US|CA TVW 2
+http://24.thgss.com:8000/94961552266377/94961552266377/2980
+#EXTINF:-1 tvg-id="" tvg-name="US|CA TVW Cable Channel" tvg-logo="" group-title="USA",US|CA TVW Cable Channel
+http://24.thgss.com:8000/94961552266377/94961552266377/2968
+#EXTINF:-1 tvg-id="" tvg-name="US|CA United Nations TV" tvg-logo="" group-title="USA",US|CA United Nations TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2957
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Vibrant TV Network" tvg-logo="" group-title="USA",US|CA Vibrant TV Network
+http://24.thgss.com:8000/94961552266377/94961552266377/2958
+#EXTINF:-1 tvg-id="" tvg-name="US|CA Voice of America" tvg-logo="" group-title="USA",US|CA Voice of America
+http://24.thgss.com:8000/94961552266377/94961552266377/2950
+#EXTINF:-1 tvg-id="" tvg-name="US|CA WATC Too TV" tvg-logo="" group-title="USA",US|CA WATC Too TV
+http://24.thgss.com:8000/94961552266377/94961552266377/3024
+#EXTINF:-1 tvg-id="" tvg-name="US|CA WBRZ-TV" tvg-logo="" group-title="USA",US|CA WBRZ-TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2946
+#EXTINF:-1 tvg-id="" tvg-name="US|CA WCCA TV" tvg-logo="" group-title="USA",US|CA WCCA TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2969
+#EXTINF:-1 tvg-id="" tvg-name="US|CA WEATHER CHANNEL" tvg-logo="" group-title="USA",US|CA WEATHER CHANNEL
+http://24.thgss.com:8000/94961552266377/94961552266377/2948
+#EXTINF:-1 tvg-id="" tvg-name="US|CA WGGS-TV" tvg-logo="" group-title="USA",US|CA WGGS-TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2956
+#EXTINF:-1 tvg-id="" tvg-name="US|CA WGN NEWS CHICAGO" tvg-logo="" group-title="USA",US|CA WGN NEWS CHICAGO
+http://24.thgss.com:8000/94961552266377/94961552266377/2997
+#EXTINF:-1 tvg-id="" tvg-name="US|CA WHPR TV 33 Detroit" tvg-logo="" group-title="USA",US|CA WHPR TV 33 Detroit
+http://24.thgss.com:8000/94961552266377/94961552266377/3013
+#EXTINF:-1 tvg-id="" tvg-name="US|CA WPCH TV" tvg-logo="" group-title="USA",US|CA WPCH TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2979
+#EXTINF:-1 tvg-id="" tvg-name="US|CA WRXY-TV" tvg-logo="" group-title="USA",US|CA WRXY-TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2960
+#EXTINF:-1 tvg-id="" tvg-name="US|CA WVLR-TV" tvg-logo="" group-title="USA",US|CA WVLR-TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2944
+#EXTINF:-1 tvg-id="" tvg-name="USA| A&E HD" tvg-logo="" group-title="USA",USA| A&E HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2700
+#EXTINF:-1 tvg-id="" tvg-name="USA| ABC FAMILY/SPARK" tvg-logo="" group-title="USA",USA| ABC FAMILY/SPARK
+http://24.thgss.com:8000/94961552266377/94961552266377/2722
+#EXTINF:-1 tvg-id="" tvg-name="USA| ABC News" tvg-logo="" group-title="USA",USA| ABC News
+http://24.thgss.com:8000/94961552266377/94961552266377/2720
+#EXTINF:-1 tvg-id="" tvg-name="USA| AFN Family Movie" tvg-logo="" group-title="USA",USA| AFN Family Movie
+http://24.thgss.com:8000/94961552266377/94961552266377/2692
+#EXTINF:-1 tvg-id="" tvg-name="USA| AFN Movie" tvg-logo="" group-title="USA",USA| AFN Movie
+http://24.thgss.com:8000/94961552266377/94961552266377/2693
+#EXTINF:-1 tvg-id="" tvg-name="USA| AFN News" tvg-logo="" group-title="USA",USA| AFN News
+http://24.thgss.com:8000/94961552266377/94961552266377/2694
+#EXTINF:-1 tvg-id="" tvg-name="USA| AFN Prime Atlantic" tvg-logo="" group-title="USA",USA| AFN Prime Atlantic
+http://24.thgss.com:8000/94961552266377/94961552266377/2695
+#EXTINF:-1 tvg-id="" tvg-name="USA| AFN Prime Pacific" tvg-logo="" group-title="USA",USA| AFN Prime Pacific
+http://24.thgss.com:8000/94961552266377/94961552266377/2696
+#EXTINF:-1 tvg-id="" tvg-name="USA| AFN Sports" tvg-logo="" group-title="USA",USA| AFN Sports
+http://24.thgss.com:8000/94961552266377/94961552266377/2648
+#EXTINF:-1 tvg-id="" tvg-name="USA| AFN Sports 2" tvg-logo="" group-title="USA",USA| AFN Sports 2
+http://24.thgss.com:8000/94961552266377/94961552266377/2647
+#EXTINF:-1 tvg-id="" tvg-name="USA| AFN Sports HD" tvg-logo="" group-title="USA",USA| AFN Sports HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2649
+#EXTINF:-1 tvg-id="" tvg-name="USA| AMC" tvg-logo="" group-title="USA",USA| AMC
+http://24.thgss.com:8000/94961552266377/94961552266377/2705
+#EXTINF:-1 tvg-id="" tvg-name="USA| ANIMAL PLANET" tvg-logo="" group-title="USA",USA| ANIMAL PLANET
+http://24.thgss.com:8000/94961552266377/94961552266377/2666
+#EXTINF:-1 tvg-id="" tvg-name="USA| BBC WORLD NEWS" tvg-logo="" group-title="USA",USA| BBC WORLD NEWS
+http://24.thgss.com:8000/94961552266377/94961552266377/2583
+#EXTINF:-1 tvg-id="" tvg-name="USA| BET ( B.E.T - Black Entertainment Television )" tvg-logo="" group-title="USA",USA| BET ( B.E.T - Black Entertainment Television )
+http://24.thgss.com:8000/94961552266377/94961552266377/2691
+#EXTINF:-1 tvg-id="" tvg-name="USA| BET HER" tvg-logo="" group-title="USA",USA| BET HER
+http://24.thgss.com:8000/94961552266377/94961552266377/2690
+#EXTINF:-1 tvg-id="" tvg-name="USA| Big Ten Network HD" tvg-logo="" group-title="USA",USA| Big Ten Network HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2609
+#EXTINF:-1 tvg-id="" tvg-name="USA| BOX OFFICE MOVIES" tvg-logo="" group-title="USA",USA| BOX OFFICE MOVIES
+http://24.thgss.com:8000/94961552266377/94961552266377/2602
+#EXTINF:-1 tvg-id="" tvg-name="USA| Bravo HD" tvg-logo="" group-title="USA",USA| Bravo HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2699
+#EXTINF:-1 tvg-id="" tvg-name="USA| C Toon Kids" tvg-logo="" group-title="USA",USA| C Toon Kids
+http://24.thgss.com:8000/94961552266377/94961552266377/2606
+#EXTINF:-1 tvg-id="" tvg-name="USA| C-SPAN 1 HD" tvg-logo="" group-title="USA",USA| C-SPAN 1 HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2588
+#EXTINF:-1 tvg-id="" tvg-name="USA| C-SPAN 2 HD" tvg-logo="" group-title="USA",USA| C-SPAN 2 HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2587
+#EXTINF:-1 tvg-id="" tvg-name="USA| C-SPAN 3 HD" tvg-logo="" group-title="USA",USA| C-SPAN 3 HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2586
+#EXTINF:-1 tvg-id="" tvg-name="USA| CALIFORNIA MUSIC CHANNEL" tvg-logo="" group-title="USA",USA| CALIFORNIA MUSIC CHANNEL
+http://24.thgss.com:8000/94961552266377/94961552266377/2654
+#EXTINF:-1 tvg-id="" tvg-name="USA| Cartoon Network HD" tvg-logo="" group-title="USA",USA| Cartoon Network HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2685
+#EXTINF:-1 tvg-id="" tvg-name="USA| CBS HD-US" tvg-logo="" group-title="USA",USA| CBS HD-US
+http://24.thgss.com:8000/94961552266377/94961552266377/2712
+#EXTINF:-1 tvg-id="" tvg-name="USA| CBS News" tvg-logo="" group-title="USA",USA| CBS News
+http://24.thgss.com:8000/94961552266377/94961552266377/2711
+#EXTINF:-1 tvg-id="" tvg-name="USA| CBSN News" tvg-logo="" group-title="USA",USA| CBSN News
+http://24.thgss.com:8000/94961552266377/94961552266377/2710
+#EXTINF:-1 tvg-id="" tvg-name="USA| Cinemax 5 Max" tvg-logo="" group-title="USA",USA| Cinemax 5 Max
+http://24.thgss.com:8000/94961552266377/94961552266377/2605
+#EXTINF:-1 tvg-id="" tvg-name="USA| Cinemax 5 Star Max" tvg-logo="" group-title="USA",USA| Cinemax 5 Star Max
+http://24.thgss.com:8000/94961552266377/94961552266377/2584
+#EXTINF:-1 tvg-id="" tvg-name="USA| Cinemax ActionMax" tvg-logo="" group-title="USA",USA| Cinemax ActionMax
+http://24.thgss.com:8000/94961552266377/94961552266377/2590
+#EXTINF:-1 tvg-id="" tvg-name="USA| Cinemax East" tvg-logo="" group-title="USA",USA| Cinemax East
+http://24.thgss.com:8000/94961552266377/94961552266377/2591
+#EXTINF:-1 tvg-id="" tvg-name="USA| CMT HD" tvg-logo="" group-title="USA",USA| CMT HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2655
+#EXTINF:-1 tvg-id="" tvg-name="USA| CNBC HD" tvg-logo="" group-title="USA",USA| CNBC HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2697
+#EXTINF:-1 tvg-id="" tvg-name="USA| CNN" tvg-logo="" group-title="USA",USA| CNN
+http://24.thgss.com:8000/94961552266377/94961552266377/2708
+#EXTINF:-1 tvg-id="" tvg-name="USA| CNN HD" tvg-logo="" group-title="USA",USA| CNN HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2707
+#EXTINF:-1 tvg-id="" tvg-name="USA| CNN HD INTERNATIONAL" tvg-logo="" group-title="USA",USA| CNN HD INTERNATIONAL
+http://24.thgss.com:8000/94961552266377/94961552266377/2706
+#EXTINF:-1 tvg-id="" tvg-name="USA| COMEDY CENTRAL" tvg-logo="" group-title="USA",USA| COMEDY CENTRAL
+http://24.thgss.com:8000/94961552266377/94961552266377/2683
+#EXTINF:-1 tvg-id="" tvg-name="USA| CW 11 HD" tvg-logo="" group-title="USA",USA| CW 11 HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2709
+#EXTINF:-1 tvg-id="" tvg-name="USA| CW Channel 11" tvg-logo="" group-title="USA",USA| CW Channel 11
+http://24.thgss.com:8000/94961552266377/94961552266377/2589
+#EXTINF:-1 tvg-id="" tvg-name="USA| Destination America HD" tvg-logo="" group-title="USA",USA| Destination America HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2665
+#EXTINF:-1 tvg-id="" tvg-name="USA| DISCOVERY CHANNEL HD" tvg-logo="" group-title="USA",USA| DISCOVERY CHANNEL HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2672
+#EXTINF:-1 tvg-id="" tvg-name="USA| Discovery Investigation HD" tvg-logo="" group-title="USA",USA| Discovery Investigation HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2669
+#EXTINF:-1 tvg-id="" tvg-name="USA| DISCOVERY SCIENCE HD" tvg-logo="" group-title="USA",USA| DISCOVERY SCIENCE HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2671
+#EXTINF:-1 tvg-id="" tvg-name="USA| DISCOVERY VELOCITY" tvg-logo="" group-title="USA",USA| DISCOVERY VELOCITY
+http://24.thgss.com:8000/94961552266377/94961552266377/2670
+#EXTINF:-1 tvg-id="" tvg-name="USA| Disney Channel HD" tvg-logo="" group-title="USA",USA| Disney Channel HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2689
+#EXTINF:-1 tvg-id="" tvg-name="USA| DISNEY JR HD" tvg-logo="" group-title="USA",USA| DISNEY JR HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2687
+#EXTINF:-1 tvg-id="" tvg-name="USA| Disney XD HD" tvg-logo="" group-title="USA",USA| Disney XD HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2688
+#EXTINF:-1 tvg-id="" tvg-name="USA| E! Network HD" tvg-logo="" group-title="USA",USA| E! Network HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2636
+#EXTINF:-1 tvg-id="" tvg-name="USA| ESPN" tvg-logo="" group-title="USA",USA| ESPN
+http://24.thgss.com:8000/94961552266377/94961552266377/2641
+#EXTINF:-1 tvg-id="" tvg-name="USA| ESPN 1" tvg-logo="" group-title="USA",USA| ESPN 1
+http://24.thgss.com:8000/94961552266377/94961552266377/2650
+#EXTINF:-1 tvg-id="" tvg-name="USA| ESPN 2 HD" tvg-logo="" group-title="USA",USA| ESPN 2 HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2640
+#EXTINF:-1 tvg-id="" tvg-name="USA| ESPN 3 TRE" tvg-logo="" group-title="USA",USA| ESPN 3 TRE
+http://24.thgss.com:8000/94961552266377/94961552266377/2639
+#EXTINF:-1 tvg-id="" tvg-name="USA| ESPN NEWS" tvg-logo="" group-title="USA",USA| ESPN NEWS
+http://24.thgss.com:8000/94961552266377/94961552266377/2638
+#EXTINF:-1 tvg-id="" tvg-name="USA| ESPN U HD" tvg-logo="" group-title="USA",USA| ESPN U HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2637
+#EXTINF:-1 tvg-id="" tvg-name="USA| Fight Network / MMA Network" tvg-logo="" group-title="USA",USA| Fight Network / MMA Network
+http://24.thgss.com:8000/94961552266377/94961552266377/2625
+#EXTINF:-1 tvg-id="" tvg-name="USA| Fight Sport 1" tvg-logo="" group-title="USA",USA| Fight Sport 1
+http://24.thgss.com:8000/94961552266377/94961552266377/2595
+#EXTINF:-1 tvg-id="" tvg-name="USA| Fight Sport 2" tvg-logo="" group-title="USA",USA| Fight Sport 2
+http://24.thgss.com:8000/94961552266377/94961552266377/2592
+#EXTINF:-1 tvg-id="" tvg-name="USA| FOX DEPORTES HD" tvg-logo="" group-title="USA",USA| FOX DEPORTES HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2601
+#EXTINF:-1 tvg-id="" tvg-name="USA| Fox News" tvg-logo="" group-title="USA",USA| Fox News
+http://24.thgss.com:8000/94961552266377/94961552266377/2713
+#EXTINF:-1 tvg-id="" tvg-name="USA| FOX NY" tvg-logo="" group-title="USA",USA| FOX NY
+http://24.thgss.com:8000/94961552266377/94961552266377/2714
+#EXTINF:-1 tvg-id="" tvg-name="USA| FOX SOCCER PLUS HD" tvg-logo="" group-title="USA",USA| FOX SOCCER PLUS HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2600
+#EXTINF:-1 tvg-id="" tvg-name="USA| FOX Sport 1" tvg-logo="" group-title="USA",USA| FOX Sport 1
+http://24.thgss.com:8000/94961552266377/94961552266377/2624
+#EXTINF:-1 tvg-id="" tvg-name="USA| FOX SPORTS ONE" tvg-logo="" group-title="USA",USA| FOX SPORTS ONE
+http://24.thgss.com:8000/94961552266377/94961552266377/2623
+#EXTINF:-1 tvg-id="" tvg-name="USA| FX HD" tvg-logo="" group-title="USA",USA| FX HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2701
+#EXTINF:-1 tvg-id="" tvg-name="USA| GRIT TV MOVIES" tvg-logo="" group-title="USA",USA| GRIT TV MOVIES
+http://24.thgss.com:8000/94961552266377/94961552266377/2622
+#EXTINF:-1 tvg-id="" tvg-name="USA| GSN TV" tvg-logo="" group-title="USA",USA| GSN TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2604
+#EXTINF:-1 tvg-id="" tvg-name="USA| HALLMARK HD" tvg-logo="" group-title="USA",USA| HALLMARK HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2621
+#EXTINF:-1 tvg-id="" tvg-name="USA| HBO 2 COMEDY" tvg-logo="" group-title="USA",USA| HBO 2 COMEDY
+http://24.thgss.com:8000/94961552266377/94961552266377/2620
+#EXTINF:-1 tvg-id="" tvg-name="USA| HBO Family HD" tvg-logo="" group-title="USA",USA| HBO Family HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2603
+#EXTINF:-1 tvg-id="" tvg-name="USA| HBO HD" tvg-logo="" group-title="USA",USA| HBO HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2619
+#EXTINF:-1 tvg-id="" tvg-name="USA| HBO SIGNATURE" tvg-logo="" group-title="USA",USA| HBO SIGNATURE
+http://24.thgss.com:8000/94961552266377/94961552266377/2618
+#EXTINF:-1 tvg-id="" tvg-name="USA| HBO ZONE" tvg-logo="" group-title="USA",USA| HBO ZONE
+http://24.thgss.com:8000/94961552266377/94961552266377/2617
+#EXTINF:-1 tvg-id="" tvg-name="USA| HGTV HD" tvg-logo="" group-title="USA",USA| HGTV HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2598
+#EXTINF:-1 tvg-id="" tvg-name="USA| KIDS READING TV" tvg-logo="" group-title="USA",USA| KIDS READING TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2573
+#EXTINF:-1 tvg-id="" tvg-name="USA| LIFE TIME" tvg-logo="" group-title="USA",USA| LIFE TIME
+http://24.thgss.com:8000/94961552266377/94961552266377/2616
+#EXTINF:-1 tvg-id="" tvg-name="USA| LMN HDTV" tvg-logo="" group-title="USA",USA| LMN HDTV
+http://24.thgss.com:8000/94961552266377/94961552266377/2582
+#EXTINF:-1 tvg-id="" tvg-name="USA| MLB HD" tvg-logo="" group-title="USA",USA| MLB HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2615
+#EXTINF:-1 tvg-id="" tvg-name="USA| MSNBC HD" tvg-logo="" group-title="USA",USA| MSNBC HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2599
+#EXTINF:-1 tvg-id="" tvg-name="USA| MTV HD" tvg-logo="" group-title="USA",USA| MTV HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2664
+#EXTINF:-1 tvg-id="" tvg-name="USA| MTV LIVE" tvg-logo="" group-title="USA",USA| MTV LIVE
+http://24.thgss.com:8000/94961552266377/94961552266377/2663
+#EXTINF:-1 tvg-id="" tvg-name="USA| MTV U" tvg-logo="" group-title="USA",USA| MTV U
+http://24.thgss.com:8000/94961552266377/94961552266377/2662
+#EXTINF:-1 tvg-id="" tvg-name="USA| Music 24" tvg-logo="" group-title="USA",USA| Music 24
+http://24.thgss.com:8000/94961552266377/94961552266377/2656
+#EXTINF:-1 tvg-id="" tvg-name="USA| NAT GEO HD" tvg-logo="" group-title="USA",USA| NAT GEO HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2668
+#EXTINF:-1 tvg-id="" tvg-name="USA| NBA TV" tvg-logo="" group-title="USA",USA| NBA TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2596
+#EXTINF:-1 tvg-id="" tvg-name="USA| NBC (EAST)" tvg-logo="" group-title="USA",USA| NBC (EAST)
+http://24.thgss.com:8000/94961552266377/94961552266377/2715
+#EXTINF:-1 tvg-id="" tvg-name="USA| NBC GOLF" tvg-logo="" group-title="USA",USA| NBC GOLF
+http://24.thgss.com:8000/94961552266377/94961552266377/2635
+#EXTINF:-1 tvg-id="" tvg-name="USA| NFL Network HD" tvg-logo="" group-title="USA",USA| NFL Network HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2651
+#EXTINF:-1 tvg-id="" tvg-name="USA| NFL Network HDTV 1080i" tvg-logo="" group-title="USA",USA| NFL Network HDTV 1080i
+http://24.thgss.com:8000/94961552266377/94961552266377/2581
+#EXTINF:-1 tvg-id="" tvg-name="USA| NFL Now" tvg-logo="" group-title="USA",USA| NFL Now
+http://24.thgss.com:8000/94961552266377/94961552266377/2652
+#EXTINF:-1 tvg-id="" tvg-name="USA| NHL NETWORK" tvg-logo="" group-title="USA",USA| NHL NETWORK
+http://24.thgss.com:8000/94961552266377/94961552266377/2634
+#EXTINF:-1 tvg-id="" tvg-name="USA| NHLTV NETWORK HD" tvg-logo="" group-title="USA",USA| NHLTV NETWORK HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2597
+#EXTINF:-1 tvg-id="" tvg-name="USA| Nickelodeon" tvg-logo="" group-title="USA",USA| Nickelodeon
+http://24.thgss.com:8000/94961552266377/94961552266377/2686
+#EXTINF:-1 tvg-id="" tvg-name="USA| Nursery Rhymes (Baby Songs)" tvg-logo="" group-title="USA",USA| Nursery Rhymes (Baby Songs)
+http://24.thgss.com:8000/94961552266377/94961552266377/2607
+#EXTINF:-1 tvg-id="" tvg-name="USA| OWN HD (Oprah Winfrey TV)" tvg-logo="" group-title="USA",USA| OWN HD (Oprah Winfrey TV)
+http://24.thgss.com:8000/94961552266377/94961552266377/2580
+#EXTINF:-1 tvg-id="" tvg-name="USA| P.B.S Kids" tvg-logo="" group-title="USA",USA| P.B.S Kids
+http://24.thgss.com:8000/94961552266377/94961552266377/2608
+#EXTINF:-1 tvg-id="" tvg-name="USA| QVC Beauty IQ" tvg-logo="" group-title="USA",USA| QVC Beauty IQ
+http://24.thgss.com:8000/94961552266377/94961552266377/2572
+#EXTINF:-1 tvg-id="" tvg-name="USA| QVC Live" tvg-logo="" group-title="USA",USA| QVC Live
+http://24.thgss.com:8000/94961552266377/94961552266377/2571
+#EXTINF:-1 tvg-id="" tvg-name="USA| QVC Plus" tvg-logo="" group-title="USA",USA| QVC Plus
+http://24.thgss.com:8000/94961552266377/94961552266377/2570
+#EXTINF:-1 tvg-id="" tvg-name="USA| Reelz HD" tvg-logo="" group-title="USA",USA| Reelz HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2653
+#EXTINF:-1 tvg-id="" tvg-name="USA| RT DOCUMENTARY" tvg-logo="" group-title="USA",USA| RT DOCUMENTARY
+http://24.thgss.com:8000/94961552266377/94961552266377/2613
+#EXTINF:-1 tvg-id="" tvg-name="USA| Showtime 2 HD" tvg-logo="" group-title="USA",USA| Showtime 2 HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2633
+#EXTINF:-1 tvg-id="" tvg-name="USA| Showtime Extreme HD" tvg-logo="" group-title="USA",USA| Showtime Extreme HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2579
+#EXTINF:-1 tvg-id="" tvg-name="USA| Showtime HD" tvg-logo="" group-title="USA",USA| Showtime HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2632
+#EXTINF:-1 tvg-id="" tvg-name="USA| Showtime Showcase" tvg-logo="" group-title="USA",USA| Showtime Showcase
+http://24.thgss.com:8000/94961552266377/94961552266377/2578
+#EXTINF:-1 tvg-id="" tvg-name="USA| SPIKE TV" tvg-logo="" group-title="USA",USA| SPIKE TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2702
+#EXTINF:-1 tvg-id="" tvg-name="USA| SportsNet One HD" tvg-logo="" group-title="USA",USA| SportsNet One HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2631
+#EXTINF:-1 tvg-id="" tvg-name="USA| Starz Cinema" tvg-logo="" group-title="USA",USA| Starz Cinema
+http://24.thgss.com:8000/94961552266377/94961552266377/2630
+#EXTINF:-1 tvg-id="" tvg-name="USA| Starz Comedy" tvg-logo="" group-title="USA",USA| Starz Comedy
+http://24.thgss.com:8000/94961552266377/94961552266377/2629
+#EXTINF:-1 tvg-id="" tvg-name="USA| Starz East" tvg-logo="" group-title="USA",USA| Starz East
+http://24.thgss.com:8000/94961552266377/94961552266377/2628
+#EXTINF:-1 tvg-id="" tvg-name="USA| Starz Edge HD" tvg-logo="" group-title="USA",USA| Starz Edge HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2627
+#EXTINF:-1 tvg-id="" tvg-name="USA| Starz Encore East" tvg-logo="" group-title="USA",USA| Starz Encore East
+http://24.thgss.com:8000/94961552266377/94961552266377/2594
+#EXTINF:-1 tvg-id="" tvg-name="USA| Starz Encore HD" tvg-logo="" group-title="USA",USA| Starz Encore HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2593
+#EXTINF:-1 tvg-id="" tvg-name="USA| Starz West" tvg-logo="" group-title="USA",USA| Starz West
+http://24.thgss.com:8000/94961552266377/94961552266377/2626
+#EXTINF:-1 tvg-id="" tvg-name="USA| SYFY HD" tvg-logo="" group-title="USA",USA| SYFY HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2612
+#EXTINF:-1 tvg-id="" tvg-name="USA| T.N.T" tvg-logo="" group-title="USA",USA| T.N.T
+http://24.thgss.com:8000/94961552266377/94961552266377/2716
+#EXTINF:-1 tvg-id="" tvg-name="USA| TBS" tvg-logo="" group-title="USA",USA| TBS
+http://24.thgss.com:8000/94961552266377/94961552266377/2704
+#EXTINF:-1 tvg-id="" tvg-name="USA| TBS HD" tvg-logo="" group-title="USA",USA| TBS HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2703
+#EXTINF:-1 tvg-id="" tvg-name="USA| TENNIS HD" tvg-logo="" group-title="USA",USA| TENNIS HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2577
+#EXTINF:-1 tvg-id="" tvg-name="USA| The Weather Channel" tvg-logo="" group-title="USA",USA| The Weather Channel
+http://24.thgss.com:8000/94961552266377/94961552266377/2585
+#EXTINF:-1 tvg-id="" tvg-name="USA| TRAVEL CHANNEL" tvg-logo="" group-title="USA",USA| TRAVEL CHANNEL
+http://24.thgss.com:8000/94961552266377/94961552266377/2667
+#EXTINF:-1 tvg-id="" tvg-name="USA| TRU TV" tvg-logo="" group-title="USA",USA| TRU TV
+http://24.thgss.com:8000/94961552266377/94961552266377/2576
+#EXTINF:-1 tvg-id="" tvg-name="USA| TRUE MOVIES" tvg-logo="" group-title="USA",USA| TRUE MOVIES
+http://24.thgss.com:8000/94961552266377/94961552266377/2611
+#EXTINF:-1 tvg-id="" tvg-name="USA| Tsn-Sport 1 HD" tvg-logo="" group-title="USA",USA| Tsn-Sport 1 HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2646
+#EXTINF:-1 tvg-id="" tvg-name="USA| Tsn-Sport 2 HD" tvg-logo="" group-title="USA",USA| Tsn-Sport 2 HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2645
+#EXTINF:-1 tvg-id="" tvg-name="USA| Tsn-Sport 3 HD" tvg-logo="" group-title="USA",USA| Tsn-Sport 3 HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2644
+#EXTINF:-1 tvg-id="" tvg-name="USA| Tsn-Sport 4 HD" tvg-logo="" group-title="USA",USA| Tsn-Sport 4 HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2643
+#EXTINF:-1 tvg-id="" tvg-name="USA| Tsn-Sport 5 HD" tvg-logo="" group-title="USA",USA| Tsn-Sport 5 HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2642
+#EXTINF:-1 tvg-id="" tvg-name="USA| TV SERIES" tvg-logo="" group-title="USA",USA| TV SERIES
+http://24.thgss.com:8000/94961552266377/94961552266377/2610
+#EXTINF:-1 tvg-id="" tvg-name="USA| Versus | NBA" tvg-logo="" group-title="USA",USA| Versus | NBA
+http://24.thgss.com:8000/94961552266377/94961552266377/2614
+#EXTINF:-1 tvg-id="" tvg-name="USA| Vevo HD" tvg-logo="" group-title="USA",USA| Vevo HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2657
+#EXTINF:-1 tvg-id="" tvg-name="USA| VH1 HD" tvg-logo="" group-title="USA",USA| VH1 HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2661
+#EXTINF:-1 tvg-id="" tvg-name="USA| Viceland HD" tvg-logo="" group-title="USA",USA| Viceland HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2698
+#EXTINF:-1 tvg-id="" tvg-name="USA| WEATHERNATION" tvg-logo="" group-title="USA",USA| WEATHERNATION
+http://24.thgss.com:8000/94961552266377/94961552266377/2575
+#EXTINF:-1 tvg-id="" tvg-name="USA| WWE Network" tvg-logo="" group-title="USA",USA| WWE Network
+http://24.thgss.com:8000/94961552266377/94961552266377/2574
+#EXTINF:-1 tvg-id="" tvg-name="USA| XITE HD" tvg-logo="" group-title="USA",USA| XITE HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2660
+#EXTINF:-1 tvg-id="" tvg-name="USA| XITE Rock HD" tvg-logo="" group-title="USA",USA| XITE Rock HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2658
+#EXTINF:-1 tvg-id="" tvg-name="USA| XITE Vibe HD" tvg-logo="" group-title="USA",USA| XITE Vibe HD
+http://24.thgss.com:8000/94961552266377/94961552266377/2659
